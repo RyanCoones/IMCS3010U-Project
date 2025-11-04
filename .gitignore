@@ -1,0 +1,9 @@
+# ignore the huge amounts of text in these directories, but keep the directories themselves to show structure of the project
+CLEANED_germanic/*
+CLEANED_romance/*
+SOURCE_germanic/*
+SOURCE_romance/*
+!CLEANED_germanic/.gitkeep
+!CLEANED_romance/.gitkeep
+!SOURCE_germanic/.gitkeep
+!SOURCE_romance/.gitkeep
