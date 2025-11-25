@@ -1,370 +1,1114 @@
-sentence,language
-The quick brown fox jumps over the lazy dog.,english
-Der schnelle braune Fuchs springt über den faulen Hund.,german
-Vulpea rapidă maro sare peste câinele leneș.,romanian
-El zorro marrón rápido salta sobre el perro perezoso.,spanish
-A raposa marrom rápida salta sobre o cachorro preguiçoso.,portuguese
-La volpe marrone veloce salta sopra il cane pigro.,italian
-Den snabba bruna räven hoppar över den lata hunden.,swedish
-De snelle bruine vos springt over de luie hond.,dutch
-Le renard brun rapide saute par-dessus le chien paresseux.,french
-She carefully arranged the antique porcelain figurines on the mahogany shelf.,english
-Sie ordnete sorgfältig die antiken Porzellanfiguren auf dem Mahagoniregal an.,german
-Ea a aranjat cu grijă figurinele de porțelan antice pe raftul de mahon.,romanian
-Ella dispuso cuidadosamente las figuras de porcelana antigua en la estantería de caoba.,spanish
-Ela organizou cuidadosamente as figuras de porcelana antigas na prateleira de mogno.,portuguese
-Ha disposto con cura le statuine di porcellana antiche sulla mensola in mogano.,italian
-Hon ordnade noggrant de antika porslinsfigurerna på mahognahyllan.,swedish
-Ze schikte zorgvuldig de antieke porseleinen figuurtjes op de mahoniehouten plank.,dutch
-Elle a soigneusement disposé les figurines en porcelaine ancienne sur l'étagère en acajou.,french
-The quantum computer processed complex algorithms at unprecedented speeds.,english
-Der Quantencomputer verarbeitete komplexe Algorithmen mit beispielloser Geschwindigkeit.,german
-Computerul cuantic a procesat algoritmi complecți la viteze fără precedent.,romanian
-La computadora cuántica procesó algoritmos complejos a velocidades sin precedentes.,spanish
-O computador quântico processou algoritmos complexos em velocidades sem precedentes.,portuguese
-Il computer quantistico ha elaborato algoritmi complessi a velocità senza precedenti.,italian
-Kvantdatorn bearbetade komplexa algoritmer med enastående hastighet.,swedish
-De quantumcomputer verwerkte complexe algoritmen met ongekende snelheden.,dutch
-L'ordinateur quantique a traité des algorithmes complexes à des vitesses sans précédent.,french
-He runs fast.,english
-Er läuft schnell.,german
-El aleargă repede.,romanian
-Él corre rápido.,spanish
-Ele corre rápido.,portuguese
-Lui corre veloce.,italian
-Han springer snabbt.,swedish
-Hij rent snel.,dutch
-Il court vite.,french
-The intricate tapestry woven by indigenous artisans told stories of ancient traditions.,english
-Die komplizierte von einheimischen Handwerkern gewebte Tapisserie erzählte Geschichten uralter Traditionen.,german
-Tapiseriea intricată țesută de meșteșugari indigeni spunea povești despre tradițiile străvechi.,romanian
-El intrincado tapiz tejido por artesanos indígenas contaba historias de tradiciones antiguas.,spanish
-A intrincada tapeçaria tecida por artesãos indígenas contava histórias de tradições antigas.,portuguese
-L'arazzo intricato tessuto dagli artigiani indigeni raccontava storie di antiche tradizioni.,italian
-Den intrikata gobelängen vävd av inhemska hantverkare berättade historier om uråldriga traditioner.,swedish
-Het ingewikkelde tapijt geweven door inheemse ambachtslieden vertelde verhalen over oude tradities.,dutch
-La tapisserie complexe tissée par des artisans autochtones racontait des histoires d'anciennes traditions.,french
-Birds sing.,english
-Vögel singen.,german
-Păsările cântă.,romanian
-Los pájaros cantan.,spanish
-Pássaros cantam.,portuguese
-Gli uccelli cantano.,italian
-Fåglar sjunger.,swedish
-Vogels zingen.,dutch
-Les oiseaux chantent.,french
-The interdisciplinary research team collaborated effectively across different time zones.,english
-Das interdisziplinäre Forschungsteam arbeitete effektiv über verschiedene Zeitzonen hinweg zusammen.,german
-Echipa de cercetare interdisciplinară a colaborat eficient în diferite fusuri orare.,romanian
-El equipo de investigación interdisciplinario colaboró efectivamente a través de diferentes zonas horarias.,spanish
-A equipe de pesquisa interdisciplinar colaborou efetivamente através de diferentes fusos horários.,portuguese
-Il team di ricerca interdisciplinare ha collaborato efficacemente attraverso diversi fusi orari.,italian
-Det tvärvetenskapliga forskningsteamet samarbetade effektivt över olika tidszoner.,swedish
-Het interdisciplinaire onderzoeksteam werkte effectief samen over verschillende tijdzones.,dutch
-L'équipe de recherche interdisciplinaire a collaboré efficacement across different time zones.,french
-She reads books.,english
-Sie liest Bücher.,german
-Ea citește cărți.,romanian
-Ella lee libros.,spanish
-Ela lê livros.,portuguese
-Lei legge libri.,italian
-Hon läser böcker.,swedish
-Ze leest boeken.,dutch
-Elle lit des livres.,french
-The sophisticated artificial intelligence system autonomously navigated through complex urban environments.,english
-Das hochentwickelte künstliche Intelligenzsystem navigierte autonom durch komplexe städtische Umgebungen.,german
-Sistemul sofisticat de inteligență artificială a navigat autonom prin medii urbane complexe.,romanian
-El sofisticado sistema de inteligencia artificial navegó autónomamente a través de entornos urbanos complejos.,spanish
-O sofisticado sistema de inteligência artificial navegou autonomamente por ambientes urbanos complexos.,portuguese
-Il sofisticato sistema di intelligenza artificiale ha navigato autonomamente attraverso ambienti urbani complessi.,italian
-Det sofistikerade artificiella intelligenssystemet navigerade autonomt genom komplexa urbana miljöer.,swedish
-Het geavanceerde kunstmatige intelligentiesysteem navigeerde autonoom door complexe stedelijke omgevingen.,dutch
-Le système sophistiqué d'intelligence artificielle a navigué de manière autonome dans des environnements urbains complexes.,french
-The cat sleeps.,english
-Die Katze schläft.,german
-Pisica doarme.,romanian
-El gato duerme.,spanish
-O gato dorme.,portuguese
-Il gatto dorme.,italian
-Katten sover.,swedish
-De kat slaapt.,dutch
-Le chat dort.,french
-They will travel tomorrow.,english
-Sie werden morgen reisen.,german
-Ei vor călători mâine.,romanian
-Ellos viajarán mañana.,spanish
-Eles viajarão amanhã.,portuguese
-Loro viaggeranno domani.,italian
-De kommer att resa imorgon.,swedish
-Zij zullen morgen reizen.,dutch
-Ils voyageront demain.,french
-The comprehensive analysis revealed unexpected patterns in consumer behavior across demographic segments.,english
-Die umfassende Analyse enthüllte unerwartete Muster im Verbraucherverhalten über demografische Segmente hinweg.,german
-Analiza cuprinzătoare a relevat modele neașteptate în comportamentul consumatorilor pe segmente demografice.,romanian
-El análisis integral reveló patrones inesperados en el comportamiento del consumidor en los segmentos demográficos.,spanish
-A análise abrangente revelou padrões inesperados no comportamento do consumidor em segmentos demográficos.,portuguese
-L'analisi completa ha rivelato modelli inaspettati nel comportamento dei consumatori tra i segmenti demografici.,italian
-Den omfattande analysen avslöjade oväntade mönster i konsumentbeteendet över demografiska segment.,swedish
-De uitgebreide analyse onthulde onverwachte patronen in consumentengedrag over demografische segmenten.,dutch
-L'analyse complète a révélé des modèles inattendus dans le comportement des consommateurs à travers les segments démographiques.,french
-We eat fruit.,english
-Wir essen Obst.,german
-Noi mâncăm fructe.,romanian
-Nosotros comemos fruta.,spanish
-Nós comemos frutas.,portuguese
-Noi mangiamo frutta.,italian
-Vi äter frukt.,swedish
-Wij eten fruit.,dutch
-Nous mangeons des fruits.,french
-The intricate legal framework governing international trade requires specialized expertise to navigate effectively.,english
-Cadrul juridic complex care guvernează comerțul internațional necesită expertiză specializată pentru a naviga eficient.,romanian
-El intrincado marco legal que rige el comercio internacional requiere experiencia especializada para navegar eficazmente.,spanish
-O intrincado quadro jurídico que rege o comércio internacional requer expertise especializada para navegar com eficácia.,portuguese
-L'intricato quadro giuridico che regola il commercio internazionale richiede una competenza specializzata per navigare efficacemente.,italian
-Det intrikata juridiska ramverket som styr internationell handel kräver specialiserad expertis för att navigera effektivt.,swedish
-Le cadre juridique complexe régissant le commerce international nécessite une expertise spécialisée pour naviguer efficacement.,french
-He writes poetry.,english
-Er schreibt Gedichte.,german
-El scrie poezie.,romanian
-Él escribe poesía.,spanish
-Ele escreve poesia.,portuguese
-Lui scrive poesie.,italian
-Han skriver poesi.,swedish
-Hij schrijft poëzie.,dutch
-Il écrit de la poésie.,french
-The unprecedented meteorological phenomena observed this year have challenged existing climate models.,english
-Fenomenele meteorologice fără precedent observate anul acesta au pus la îndoială modelele climatice existente.,romanian
-Los fenómenos meteorológicos sin precedentes observados este año han desafiado los modelos climáticos existentes.,spanish
-Os fenômenos meteorológicos sem precedentes observados este ano desafiaram os modelos climáticos existentes.,portuguese
-I fenomeni meteorologici senza precedenti osservati quest'anno hanno sfidato i modelli climatici esistenti.,italian
-De oförlikneliga meteorologiska fenomen som observerats i år har utmanat befintliga klimatmodeller.,swedish
-Les phénomènes météorologiques sans précédent observés cette année ont remis en question les modèles climatiques existants.,french
-Children play games.,english
-Kinder spielen Spiele.,german
-Copiii se joacă jocuri.,romanian
-Los niños juegan juegos.,spanish
-Crianças jogam jogos.,portuguese
-I bambini giocano ai giochi.,italian
-Barn spelar spel.,swedish
-Kinderen spelen spelletjes.,dutch
-Les enfants jouent à des jeux.,french
-The innovative startup secured substantial venture capital funding after demonstrating remarkable growth metrics.,english
-Startup-ul inovator a obținut o finanțare substanțială de capital de risc după ce a demonstrat metrici de creștere remarcabile.,romanian
-La startup innovadora aseguró una financiación sustancial de capital riesgo después de demostrar métricas de crecimiento notables.,spanish
-A startup inovadora garantiu financiamento substancial de capital de risco após demonstrar métricas de crescimento notáveis.,portuguese
-La startup innovativa ha ottenuto un finanziamento sostanziale di venture capital dopo aver dimostrato metriche di crescita notevoli.,italian
-Det innovativa startupet säkrade betydande venture capital-finansiering efter att ha demonstrat anmärkningsvärda tillväxtmått.,swedish
-Het innovatieve startup verzekerde zich van aanzienlijke durfkapitaalfinanciering na het demonstreren van opmerkelijke groeimetrieken.,dutch
-La startup innovante a obtenu un financement substantiel en capital-risque après avoir démontré des métriques de croissance remarquables.,french
-She teaches mathematics.,english
-Sie unterrichtet Mathematik.,german
-Ea predă matematica.,romanian
-Ella enseña matemáticas.,spanish
-Ela ensina matemática.,portuguese
-Lei insegna matematica.,italian
-Hon undervisar i matematik.,swedish
-Ze geeft wiskundeles.,dutch
-Elle enseigne les mathématiques.,french
-The complex geopolitical situation requires careful diplomatic maneuvering and strategic foresight.,english
-Die komplexe geopolitische Situation erfordert sorgfältiges diplomatisches Manövrieren und strategische Weitsicht.,german
-Situația geopolitică complexă necesită manevrare diplomatică atentă și previziune strategică.,romanian
-La compleja situación geopolítica requiere una cuidadosa maniobra diplomática y previsión estratégica.,spanish
-A complexa situação geopolítica requer manobras diplomáticas cuidadosas e previsão estratégica.,portuguese
-La complessa situazione geopolitica richiede un'attenta manovra diplomatica e una previsione strategica.,italian
-Den komplexa geopolitiska situationen kräver försiktig diplomatisk manövrering och strategisk framsynthet.,swedish
-De complexe geopolitieke situatie vereist zorgvuldig diplomatiek manoeuvreren en strategisch vooruitzicht.,dutch
-La situation géopolitique complexe nécessite une manœuvre diplomatique prudente et une prévision stratégique.,french
-They build houses.,english
-Sie bauen Häuser.,german
-Ei construiesc case.,romanian
-Ellos construyen casas.,spanish
-Eles constroem casas.,portuguese
-Loro costruiscono case.,italian
-De bygger hus.,swedish
-Zij bouwen huizen.,dutch
-Ils construisent des maisons.,french
-The sophisticated neural network architecture demonstrated exceptional performance in natural language processing tasks.,english
-Die hochentwickelte neuronale Netzwerkarchitektur zeigte außergewöhnliche Leistung bei Aufgaben der natürlichen Sprachverarbeitung.,german
-Arhitectura sofisticată de rețea neuronală a demonstrat o performanță excepțională în sarcinile de procesare a limbajului natural.,romanian
-La sofisticada arquitectura de red neuronal demostró un rendimiento excepcional en tareas de procesamiento de lenguaje natural.,spanish
-A sofisticada arquitetura de rede neural demonstrou desempenho excepcional em tarefas de processamento de linguagem natural.,portuguese
-La sofisticata architettura di rete neurale ha dimostrato prestazioni eccezionali nelle attività di elaborazione del linguaggio naturale.,italian
-Den sofistikerade neurala nätverksarkitekturen uppvisade exceptionell prestanda i uppgifter för naturlig språkbehandling.,swedish
-De geavanceerde neurale netwerkarchitectuur demonstreerde uitzonderlijke prestaties in taken voor natuurlijke taalverwerking.,dutch
-L'architecture sophistiquée de réseau neuronal a démontré des performances exceptionnelles dans les tâches de traitement du langage naturel.,french
-We study languages.,english
-Wir studieren Sprachen.,german
-Noi studiem limbi.,romanian
-Nosotros estudiamos idiomas.,spanish
-Nós estudamos línguas.,portuguese
-Noi studiamo le lingue.,italian
-Vi studerar språk.,swedish
-Wij studeren talen.,dutch
-Nous étudions les langues.,french
-The intricate biochemical pathways involved in cellular metabolism continue to reveal new therapeutic targets.,english
-Căile biochimice complexe implicate în metabolismul celular continuă să dezvăluie noi ținte terapeutice.,romanian
-Las intrincadas vías bioquímicas involucradas en el metabolismo celular continúan revelando nuevos objetivos terapéuticos.,spanish
-As intrincadas vias bioquímicas envolvidas no metabolismo celular continuam a revelar novos alvos terapêuticos.,portuguese
-I complessi percorsi biochimici coinvolti nel metabolismo cellulare continuano a rivelare nuovi bersagli terapeutici.,italian
-De intrikata biokemiska vägarna inblandade i cellulär metabolism fortsätter att avslöja nya terapeutiska mål.,swedish
-De ingewikkelde biochemische routes die betrokken zijn bij cellulair metabolisme blijven nieuwe therapeutische doelen onthullen.,dutch
-Les voies biochimiques complexes impliquées dans le métabolisme cellulaire continuent de révéler de nouvelles cibles thérapeutiques.,french
-He cooks dinner.,english
-Er kocht Abendessen.,german
-El gătește cina.,romanian
-Él cocina la cena.,spanish
-Ele cozinha o jantar.,portuguese
-Lui cucina la cena.,italian
-Han lagar middag.,swedish
-Hij kookt het avondeten.,dutch
-Il cuisine le dîner.,french
-The unprecedented global supply chain disruptions have accelerated the adoption of digital transformation initiatives.,english
-Die beispiellosen globalen Lieferkettenstörungen haben die Einführung von Initiativen zur digitalen Transformation beschleunigt.,german
-Perturbațiile fără precedent ale lanțului global de aprovizionare au accelerat adoptarea inițiativelor de transformare digitală.,romanian
-Las interrupciones sin precedentes en la cadena de suministro global han acelerado la adopción de iniciativas de transformación digital.,spanish
-As interrupções sem precedentes na cadeia de suprimentos global aceleraram a adoção de iniciativas de transformação digital.,portuguese
-Le interruzioni senza precedenti della catena di approvvigionamento globale hanno accelerato l'adozione di iniziative di trasformazione digitale.,italian
-De oförlikneliga globala försörjningskedjestörningarna har påskyndat antagandet av digitala transformationsinitiativ.,swedish
-De ongekende wereldwijde toeleveringsketenverstoringen hebben de adoptie van digitale transformatie-initiatieven versneld.,dutch
-Les perturbations sans précédent de la chaîne d'approvisionnement mondiale ont accéléré l'adoption des initiatives de transformation numérique.,french
-They watch movies.,english
-Sie schauen Filme.,german
-Ei se uită la filme.,romanian
-Ellos miran películas.,spanish
-Eles assistem filmes.,portuguese
-Loro guardano film.,italian
-De tittar på filmer.,swedish
-Zij kijken naar films.,dutch
-Ils regardent des films.,french
-The sophisticated cryptographic protocols ensure secure communication across distributed networks.,english
-Die hochentwickelten kryptografischen Protokolle gewährleisten sichere Kommunikation über verteilte Netzwerke.,german
-Protocoalele criptografice sofisticate asigură o comunicare securizată pe rețele distribuite.,romanian
-Los sofisticados protocolos criptográficos aseguran una comunicación segura a través de redes distribuidas.,spanish
-Os sofisticados protocolos criptográficos garantem comunicação segura em redes distribuídas.,portuguese
-I sofisticati protocolli crittografici assicurano una comunicazione sicura attraverso reti distribuite.,italian
-De sofistikerade kryptografiska protokollen säkerställer säker kommunikation över distribuerade nätverk.,swedish
-De geavanceerde cryptografische protocollen zorgen voor veilige communicatie over gedistribueerde netwerken.,dutch
-Les protocoles cryptographiques sophistiqués assurent une communication sécurisée sur les réseaux distribués.,french
-We listen to music.,english
-Wir hören Musik.,german
-Noi ascultăm muzică.,romanian
-Nosotros escuchamos música.,spanish
-Nós ouvimos música.,portuguese
-Noi ascoltiamo musica.,italian
-Vi lyssnar på musik.,swedish
-Wij luisteren naar muziek.,dutch
-Nous écoutons de la musique.,french
-The intricate dance choreography required months of intensive rehearsal and precise coordination.,english
-Die komplizierte Tanzchoreografie erforderte Monate intensiver Proben und präziser Koordination.,german
-Coregrafia intricată de dans a necesitat luni de repetiții intensive și coordonare precisă.,romanian
-La intrincada coreografía de baile requirió meses de ensayo intensivo y coordinación precisa.,spanish
-A intrincada coreografia de dança exigiu meses de ensaio intensivo e coordenação precisa.,portuguese
-L'intricata coreografia di danza ha richiesto mesi di prove intensive e coordinazione precisa.,italian
-Den intrikata danskoreografin krävde månader av intensiv repetition och exakt samordning.,swedish
-De ingewikkelde danschoreografie vereiste maanden van intensieve repetitie en precieze coördinatie.,dutch
-La chorégraphie de danse complexe a nécessité des mois de répétition intensive et de coordination précise.,french
-She paints pictures.,english
-Sie malt Bilder.,german
-Ea pictează tablouri.,romanian
-Ella pinta cuadros.,spanish
-Ela pinta quadros.,portuguese
-Lei dipinge quadri.,italian
-Hon målar bilder.,swedish
-Ze schildert schilderijen.,dutch
-Elle peint des tableaux.,french
-The unprecedented collaboration between academic institutions and industry partners yielded groundbreaking innovations.,english
-Die beispiellose Zusammenarbeit zwischen akademischen Einrichtungen und Industriepartnern ergab bahnbrechende Innovationen.,german
-Colaborarea fără precedent dintre instituțiile academice și partenerii din industrie a produs inovații revoluționare.,romanian
-La colaboración sin precedentes entre instituciones académicas y socios industriales produjo innovaciones revolucionarias.,spanish
-A colaboração sem precedentes entre instituições acadêmicas e parceiros da indústria rendeu inovações inovadoras.,portuguese
-La collaborazione senza precedenti tra istituzioni accademiche e partner industriali ha prodotto innovazioni rivoluzionarie.,italian
-Det oförlikneliga samarbetet mellan akademiska institutioner och industrip partners gav banbrytande innovationer.,swedish
-De ongekende samenwerking tussen academische instellingen en industriële partners leverde baanbrekende innovaties op.,dutch
-La collaboration sans précédent entre les institutions académiques et les partenaires industriels a produit des innovations révolutionnaires.,french
-They drive cars.,english
-Sie fahren Autos.,german
-Ei conduc mașini.,romanian
-Ellos conducen coches.,spanish
-Eles dirigem carros.,portuguese
-Loro guidano macchine.,italian
-De kör bilar.,swedish
-Zij rijden auto's.,dutch
-Ils conduisent des voitures.,french
-The sophisticated machine learning algorithms continuously adapt to evolving data patterns.,english
-Die hochentwickelten maschinellen Lernalgorithmen passen sich kontinuierlich an sich entwickelnde Datenmuster an.,german
-Algoritmii sofisticați de învățare automată se adaptează continuu la modelele de date în evoluție.,romanian
-Los sofisticados algoritmos de aprendizaje automático se adaptan continuamente a los patrones de datos en evolución.,spanish
-Os sofisticados algoritmos de aprendizado de máquina se adaptam continuamente aos padrões de dados em evolução.,portuguese
-I sofisticati algoritmi di apprendimento automatico si adattano continuamente ai modelli di dati in evoluzione.,italian
-De sofistikerade maskininlärningsalgoritmerna anpassar sig kontinuerligt till utvecklande datamönster.,swedish
-De geavanceerde machine learning-algoritmen passen zich continu aan aan evoluerende gegevenspatronen.,dutch
-Les algorithmes sophistiqués d'apprentissage automatique s'adaptent continuellement aux modèles de données en évolution.,french
-We drink water.,english
-Wir trinken Wasser.,german
-Noi bem apă.,romanian
-Nosotros bebemos agua.,spanish
-Nós bebemos água.,portuguese
-Noi beviamo acqua.,italian
-Vi dricker vatten.,swedish
-Wij drinken water.,dutch
-Nous buvons de l'eau.,french
-The intricate architectural design seamlessly blends historical elements with contemporary aesthetics.,english
-Das komplizierte architektonische Design verbindet nahtlos historische Elemente mit zeitgenössischer Ästhetik.,german
-Designul arhitectural complex îmbină perfect elementele istorice cu estetica contemporană.,romanian
-El intrincado diseño arquitectónico mezcla perfectamente elementos históricos con estética contemporánea.,spanish
-O intrincado design arquitetônico mistura perfeitamente elementos históricos com estética contemporânea.,portuguese
-L'intricato design architettonico fonde perfettamente elementi storici con l'estetica contemporanea.,italian
-Den intrikata arkitektoniska designen blandar sömlöst historiska element med samtida estetik.,swedish
-Het ingewikkelde architectonische ontwerp vermengt naadloos historische elementen met eigentijdse esthetiek.,dutch
-La conception architecturale complexe mélange parfaitement les éléments historiques avec l'esthétique contemporaine.,french
-He plays guitar.,english
-Er spielt Gitarre.,german
-El cântă la chitară.,romanian
-Él toca la guitarra.,spanish
-Ele toca guitarra.,portuguese
-Lui suona la chitarra.,italian
-Han spelar gitarr.,swedish
-Hij speelt gitaar.,dutch
-Il joue de la guitare.,french
-Cô ấy dạy toán.,vietnamese
-O matematik öğretiyor.,turkish
-Dia mengajar matematika.,indonesian
-Tình hình địa chính trị phức tạp đòi hỏi sự vận dụng ngoại giao cẩn trọng và tầm nhìn chiến lược.,vietnamese
-Karmaşık jeopolitik durum dikkatli diplomatik manevralar ve stratejik öngörü gerektiriyor.,turkish
-Situasi geopolitik yang kompleks memerlukan manuver diplomatik yang hati-hati dan wawasan strategis.,indonesian
-Học sinh phải hiểu các nguyên lý cơ bản của đại số.,vietnamese
-Öğrenciler cebirin temel ilkelerini anlamalıdır.,turkish
-Siswa harus memahami prinsip dasar aljabar.,indonesian
-Hợp tác quốc tế là cần thiết để giải quyết biến đổi khí hậu.,vietnamese
-İklim değişikliğiyle mücadelede uluslararası işbirliği şarttır.,turkish
-Kerja sama internasional sangat penting untuk mengatasi perubahan iklim.,indonesian
-Tư duy phản biện là một kỹ năng quý giá trong giáo dục hiện đại.,vietnamese
-Eleştirel düşünme modern eğitimde değerli bir beceridir.,turkish
-Berpikir kritis adalah keterampilan yang berharga dalam pendidikan modern.,indonesian
-Anh ấy đang đọc một cuốn sách về lịch sử thế giới.,vietnamese
-O dünya tarihi hakkında bir kitap okuyor.,turkish
-Dia sedang membaca buku tentang sejarah dunia.,indonesian
-Chúng tôi sẽ đi du lịch vào mùa hè này.,vietnamese
-Bu yaz seyahate çıkacağız.,turkish
-Kami akan bepergian musim panas ini.,indonesian
-Máy tính của tôi bị hỏng và tôi cần sửa nó.,vietnamese
-Bilgisayarım bozuldu ve tamir ettirmem gerekiyor.,turkish
-Komputer saya rusak dan saya perlu memperbaikinya.,indonesian
-Cô ấy thích nghe nhạc cổ điển.,vietnamese
-Klasik müzik dinlemeyi seviyor.,turkish
-Dia suka mendengarkan musik klasik.,indonesian
-Tôi đang học cách lập trình bằng Python.,vietnamese
-Python ile programlama öğreniyorum.,turkish
-Saya sedang belajar pemrograman dengan Python.,indonesian
-Bài kiểm tra toán rất khó.,vietnamese
-Matematik sınavı çok zordu.,turkish
-Ujian matematika itu sangat sulit.,indonesian
-Chúng tôi cần một chiến lược mới để giải quyết vấn đề này.,vietnamese
-Bu sorunu çözmek için yeni bir stratejiye ihtiyacımız var.,turkish
-Kami membutuhkan strategi baru untuk menyelesaikan masalah ini.,indonesian
-Thời tiết hôm nay rất đẹp.,vietnamese
-Bugün hava çok güzel.,turkish
-Cuaca hari ini sangat bagus.,indonesian
-Tôi đang viết một bài luận về văn hóa Việt Nam.,vietnamese
-Vietnam kültürü hakkında bir makale yazıyorum.,turkish
-Saya sedang menulis esai tentang budaya Vietnam.,indonesian
+sentence::language
+The quick brown fox jumps over the lazy dog.::english
+Der schnelle braune Fuchs springt über den faulen Hund.::german
+Vulpea rapidă maro sare peste câinele leneș.::romanian
+El zorro marrón rápido salta sobre el perro perezoso.::spanish
+A raposa marrom rápida salta sobre o cachorro preguiçoso.::portuguese
+La volpe marrone veloce salta sopra il cane pigro.::italian
+Den snabba bruna räven hoppar över den lata hunden.::swedish
+De snelle bruine vos springt over de luie hond.::dutch
+Le renard brun rapide saute par-dessus le chien paresseux.::french
+She carefully arranged the antique porcelain figurines on the mahogany shelf.::english
+Sie ordnete sorgfältig die antiken Porzellanfiguren auf dem Mahagoniregal an.::german
+Ea a aranjat cu grijă figurinele de porțelan antice pe raftul de mahon.::romanian
+Ella dispuso cuidadosamente las figuras de porcelana antigua en la estantería de caoba.::spanish
+Ela organizou cuidadosamente as figuras de porcelana antigas na prateleira de mogno.::portuguese
+Ha disposto con cura le statuine di porcellana antiche sulla mensola in mogano.::italian
+Hon ordnade noggrant de antika porslinsfigurerna på mahognahyllan.::swedish
+Ze schikte zorgvuldig de antieke porseleinen figuurtjes op de mahoniehouten plank.::dutch
+Elle a soigneusement disposé les figurines en porcelaine ancienne sur l'étagère en acajou.::french
+The quantum computer processed complex algorithms at unprecedented speeds.::english
+Der Quantencomputer verarbeitete komplexe Algorithmen mit beispielloser Geschwindigkeit.::german
+Computerul cuantic a procesat algoritmi complecți la viteze fără precedent.::romanian
+La computadora cuántica procesó algoritmos complejos a velocidades sin precedentes.::spanish
+O computador quântico processou algoritmos complexos em velocidades sem precedentes.::portuguese
+Il computer quantistico ha elaborato algoritmi complessi a velocità senza precedenti.::italian
+Kvantdatorn bearbetade komplexa algoritmer med enastående hastighet.::swedish
+De quantumcomputer verwerkte complexe algoritmen met ongekende snelheden.::dutch
+L'ordinateur quantique a traité des algorithmes complexes à des vitesses sans précédent.::french
+He runs fast.::english
+Er läuft schnell.::german
+El aleargă repede.::romanian
+Él corre rápido.::spanish
+Ele corre rápido.::portuguese
+Lui corre veloce.::italian
+Han springer snabbt.::swedish
+Hij rent snel.::dutch
+Il court vite.::french
+The intricate tapestry woven by indigenous artisans told stories of ancient traditions.::english
+Die komplizierte von einheimischen Handwerkern gewebte Tapisserie erzählte Geschichten uralter Traditionen.::german
+Tapiseriea intricată țesută de meșteșugari indigeni spunea povești despre tradițiile străvechi.::romanian
+El intrincado tapiz tejido por artesanos indígenas contaba historias de tradiciones antiguas.::spanish
+A intrincada tapeçaria tecida por artesãos indígenas contava histórias de tradições antigas.::portuguese
+L'arazzo intricato tessuto dagli artigiani indigeni raccontava storie di antiche tradizioni.::italian
+Den intrikata gobelängen vävd av inhemska hantverkare berättade historier om uråldriga traditioner.::swedish
+Het ingewikkelde tapijt geweven door inheemse ambachtslieden vertelde verhalen over oude tradities.::dutch
+La tapisserie complexe tissée par des artisans autochtones racontait des histoires d'anciennes traditions.::french
+Birds sing.::english
+Vögel singen.::german
+Păsările cântă.::romanian
+Los pájaros cantan.::spanish
+Pássaros cantam.::portuguese
+Gli uccelli cantano.::italian
+Fåglar sjunger.::swedish
+Vogels zingen.::dutch
+Les oiseaux chantent.::french
+The interdisciplinary research team collaborated effectively across different time zones.::english
+Das interdisziplinäre Forschungsteam arbeitete effektiv über verschiedene Zeitzonen hinweg zusammen.::german
+Echipa de cercetare interdisciplinară a colaborat eficient în diferite fusuri orare.::romanian
+El equipo de investigación interdisciplinario colaboró efectivamente a través de diferentes zonas horarias.::spanish
+A equipe de pesquisa interdisciplinar colaborou efetivamente através de diferentes fusos horários.::portuguese
+Il team di ricerca interdisciplinare ha collaborato efficacemente attraverso diversi fusi orari.::italian
+Det tvärvetenskapliga forskningsteamet samarbetade effektivt över olika tidszoner.::swedish
+Het interdisciplinaire onderzoeksteam werkte effectief samen over verschillende tijdzones.::dutch
+L'équipe de recherche interdisciplinaire a collaboré efficacement across different time zones.::french
+She reads books.::english
+Sie liest Bücher.::german
+Ea citește cărți.::romanian
+Ella lee libros.::spanish
+Ela lê livros.::portuguese
+Lei legge libri.::italian
+Hon läser böcker.::swedish
+Ze leest boeken.::dutch
+Elle lit des livres.::french
+The sophisticated artificial intelligence system autonomously navigated through complex urban environments.::english
+Das hochentwickelte künstliche Intelligenzsystem navigierte autonom durch komplexe städtische Umgebungen.::german
+Sistemul sofisticat de inteligență artificială a navigat autonom prin medii urbane complexe.::romanian
+El sofisticado sistema de inteligencia artificial navegó autónomamente a través de entornos urbanos complejos.::spanish
+O sofisticado sistema de inteligência artificial navegou autonomamente por ambientes urbanos complexos.::portuguese
+Il sofisticato sistema di intelligenza artificiale ha navigato autonomamente attraverso ambienti urbani complessi.::italian
+Det sofistikerade artificiella intelligenssystemet navigerade autonomt genom komplexa urbana miljöer.::swedish
+Het geavanceerde kunstmatige intelligentiesysteem navigeerde autonoom door complexe stedelijke omgevingen.::dutch
+Le système sophistiqué d'intelligence artificielle a navigué de manière autonome dans des environnements urbains complexes.::french
+The cat sleeps.::english
+Die Katze schläft.::german
+Pisica doarme.::romanian
+El gato duerme.::spanish
+O gato dorme.::portuguese
+Il gatto dorme.::italian
+Katten sover.::swedish
+De kat slaapt.::dutch
+Le chat dort.::french
+They will travel tomorrow.::english
+Sie werden morgen reisen.::german
+Ei vor călători mâine.::romanian
+Ellos viajarán mañana.::spanish
+Eles viajarão amanhã.::portuguese
+Loro viaggeranno domani.::italian
+De kommer att resa imorgon.::swedish
+Zij zullen morgen reizen.::dutch
+Ils voyageront demain.::french
+The comprehensive analysis revealed unexpected patterns in consumer behavior across demographic segments.::english
+Die umfassende Analyse enthüllte unerwartete Muster im Verbraucherverhalten über demografische Segmente hinweg.::german
+Analiza cuprinzătoare a relevat modele neașteptate în comportamentul consumatorilor pe segmente demografice.::romanian
+El análisis integral reveló patrones inesperados en el comportamiento del consumidor en los segmentos demográficos.::spanish
+A análise abrangente revelou padrões inesperados no comportamento do consumidor em segmentos demográficos.::portuguese
+L'analisi completa ha rivelato modelli inaspettati nel comportamento dei consumatori tra i segmenti demografici.::italian
+Den omfattande analysen avslöjade oväntade mönster i konsumentbeteendet över demografiska segment.::swedish
+De uitgebreide analyse onthulde onverwachte patronen in consumentengedrag over demografische segmenten.::dutch
+L'analyse complète a révélé des modèles inattendus dans le comportement des consommateurs à travers les segments démographiques.::french
+We eat fruit.::english
+Wir essen Obst.::german
+Noi mâncăm fructe.::romanian
+Nosotros comemos fruta.::spanish
+Nós comemos frutas.::portuguese
+Noi mangiamo frutta.::italian
+Vi äter frukt.::swedish
+Wij eten fruit.::dutch
+Nous mangeons des fruits.::french
+The intricate legal framework governing international trade requires specialized expertise to navigate effectively.::english
+Cadrul juridic complex care guvernează comerțul internațional necesită expertiză specializată pentru a naviga eficient.::romanian
+El intrincado marco legal que rige el comercio internacional requiere experiencia especializada para navegar eficazmente.::spanish
+O intrincado quadro jurídico que rege o comércio internacional requer expertise especializada para navegar com eficácia.::portuguese
+L'intricato quadro giuridico che regola il commercio internazionale richiede una competenza specializzata per navigare efficacemente.::italian
+Det intrikata juridiska ramverket som styr internationell handel kräver specialiserad expertis för att navigera effektivt.::swedish
+Le cadre juridique complexe régissant le commerce international nécessite une expertise spécialisée pour naviguer efficacement.::french
+He writes poetry.::english
+Er schreibt Gedichte.::german
+El scrie poezie.::romanian
+Él escribe poesía.::spanish
+Ele escreve poesia.::portuguese
+Lui scrive poesie.::italian
+Han skriver poesi.::swedish
+Hij schrijft poëzie.::dutch
+Il écrit de la poésie.::french
+The unprecedented meteorological phenomena observed this year have challenged existing climate models.::english
+Fenomenele meteorologice fără precedent observate anul acesta au pus la îndoială modelele climatice existente.::romanian
+Los fenómenos meteorológicos sin precedentes observados este año han desafiado los modelos climáticos existentes.::spanish
+Os fenômenos meteorológicos sem precedentes observados este ano desafiaram os modelos climáticos existentes.::portuguese
+I fenomeni meteorologici senza precedenti osservati quest'anno hanno sfidato i modelli climatici esistenti.::italian
+De oförlikneliga meteorologiska fenomen som observerats i år har utmanat befintliga klimatmodeller.::swedish
+Les phénomènes météorologiques sans précédent observés cette année ont remis en question les modèles climatiques existants.::french
+Children play games.::english
+Kinder spielen Spiele.::german
+Copiii se joacă jocuri.::romanian
+Los niños juegan juegos.::spanish
+Crianças jogam jogos.::portuguese
+I bambini giocano ai giochi.::italian
+Barn spelar spel.::swedish
+Kinderen spelen spelletjes.::dutch
+Les enfants jouent à des jeux.::french
+The innovative startup secured substantial venture capital funding after demonstrating remarkable growth metrics.::english
+Startup-ul inovator a obținut o finanțare substanțială de capital de risc după ce a demonstrat metrici de creștere remarcabile.::romanian
+La startup innovadora aseguró una financiación sustancial de capital riesgo después de demostrar métricas de crecimiento notables.::spanish
+A startup inovadora garantiu financiamento substancial de capital de risco após demonstrar métricas de crescimento notáveis.::portuguese
+La startup innovativa ha ottenuto un finanziamento sostanziale di venture capital dopo aver dimostrato metriche di crescita notevoli.::italian
+Det innovativa startupet säkrade betydande venture capital-finansiering efter att ha demonstrat anmärkningsvärda tillväxtmått.::swedish
+Het innovatieve startup verzekerde zich van aanzienlijke durfkapitaalfinanciering na het demonstreren van opmerkelijke groeimetrieken.::dutch
+La startup innovante a obtenu un financement substantiel en capital-risque après avoir démontré des métriques de croissance remarquables.::french
+She teaches mathematics.::english
+Sie unterrichtet Mathematik.::german
+Ea predă matematica.::romanian
+Ella enseña matemáticas.::spanish
+Ela ensina matemática.::portuguese
+Lei insegna matematica.::italian
+Hon undervisar i matematik.::swedish
+Ze geeft wiskundeles.::dutch
+Elle enseigne les mathématiques.::french
+The complex geopolitical situation requires careful diplomatic maneuvering and strategic foresight.::english
+Die komplexe geopolitische Situation erfordert sorgfältiges diplomatisches Manövrieren und strategische Weitsicht.::german
+Situația geopolitică complexă necesită manevrare diplomatică atentă și previziune strategică.::romanian
+La compleja situación geopolítica requiere una cuidadosa maniobra diplomática y previsión estratégica.::spanish
+A complexa situação geopolítica requer manobras diplomáticas cuidadosas e previsão estratégica.::portuguese
+La complessa situazione geopolitica richiede un'attenta manovra diplomatica e una previsione strategica.::italian
+Den komplexa geopolitiska situationen kräver försiktig diplomatisk manövrering och strategisk framsynthet.::swedish
+De complexe geopolitieke situatie vereist zorgvuldig diplomatiek manoeuvreren en strategisch vooruitzicht.::dutch
+La situation géopolitique complexe nécessite une manœuvre diplomatique prudente et une prévision stratégique.::french
+They build houses.::english
+Sie bauen Häuser.::german
+Ei construiesc case.::romanian
+Ellos construyen casas.::spanish
+Eles constroem casas.::portuguese
+Loro costruiscono case.::italian
+De bygger hus.::swedish
+Zij bouwen huizen.::dutch
+Ils construisent des maisons.::french
+The sophisticated neural network architecture demonstrated exceptional performance in natural language processing tasks.::english
+Die hochentwickelte neuronale Netzwerkarchitektur zeigte außergewöhnliche Leistung bei Aufgaben der natürlichen Sprachverarbeitung.::german
+Arhitectura sofisticată de rețea neuronală a demonstrat o performanță excepțională în sarcinile de procesare a limbajului natural.::romanian
+La sofisticada arquitectura de red neuronal demostró un rendimiento excepcional en tareas de procesamiento de lenguaje natural.::spanish
+A sofisticada arquitetura de rede neural demonstrou desempenho excepcional em tarefas de processamento de linguagem natural.::portuguese
+La sofisticata architettura di rete neurale ha dimostrato prestazioni eccezionali nelle attività di elaborazione del linguaggio naturale.::italian
+Den sofistikerade neurala nätverksarkitekturen uppvisade exceptionell prestanda i uppgifter för naturlig språkbehandling.::swedish
+De geavanceerde neurale netwerkarchitectuur demonstreerde uitzonderlijke prestaties in taken voor natuurlijke taalverwerking.::dutch
+L'architecture sophistiquée de réseau neuronal a démontré des performances exceptionnelles dans les tâches de traitement du langage naturel.::french
+We study languages.::english
+Wir studieren Sprachen.::german
+Noi studiem limbi.::romanian
+Nosotros estudiamos idiomas.::spanish
+Nós estudamos línguas.::portuguese
+Noi studiamo le lingue.::italian
+Vi studerar språk.::swedish
+Wij studeren talen.::dutch
+Nous étudions les langues.::french
+The intricate biochemical pathways involved in cellular metabolism continue to reveal new therapeutic targets.::english
+Căile biochimice complexe implicate în metabolismul celular continuă să dezvăluie noi ținte terapeutice.::romanian
+Las intrincadas vías bioquímicas involucradas en el metabolismo celular continúan revelando nuevos objetivos terapéuticos.::spanish
+As intrincadas vias bioquímicas envolvidas no metabolismo celular continuam a revelar novos alvos terapêuticos.::portuguese
+I complessi percorsi biochimici coinvolti nel metabolismo cellulare continuano a rivelare nuovi bersagli terapeutici.::italian
+De intrikata biokemiska vägarna inblandade i cellulär metabolism fortsätter att avslöja nya terapeutiska mål.::swedish
+De ingewikkelde biochemische routes die betrokken zijn bij cellulair metabolisme blijven nieuwe therapeutische doelen onthullen.::dutch
+Les voies biochimiques complexes impliquées dans le métabolisme cellulaire continuent de révéler de nouvelles cibles thérapeutiques.::french
+He cooks dinner.::english
+Er kocht Abendessen.::german
+El gătește cina.::romanian
+Él cocina la cena.::spanish
+Ele cozinha o jantar.::portuguese
+Lui cucina la cena.::italian
+Han lagar middag.::swedish
+Hij kookt het avondeten.::dutch
+Il cuisine le dîner.::french
+The unprecedented global supply chain disruptions have accelerated the adoption of digital transformation initiatives.::english
+Die beispiellosen globalen Lieferkettenstörungen haben die Einführung von Initiativen zur digitalen Transformation beschleunigt.::german
+Perturbațiile fără precedent ale lanțului global de aprovizionare au accelerat adoptarea inițiativelor de transformare digitală.::romanian
+Las interrupciones sin precedentes en la cadena de suministro global han acelerado la adopción de iniciativas de transformación digital.::spanish
+As interrupções sem precedentes na cadeia de suprimentos global aceleraram a adoção de iniciativas de transformação digital.::portuguese
+Le interruzioni senza precedenti della catena di approvvigionamento globale hanno accelerato l'adozione di iniziative di trasformazione digitale.::italian
+De oförlikneliga globala försörjningskedjestörningarna har påskyndat antagandet av digitala transformationsinitiativ.::swedish
+De ongekende wereldwijde toeleveringsketenverstoringen hebben de adoptie van digitale transformatie-initiatieven versneld.::dutch
+Les perturbations sans précédent de la chaîne d'approvisionnement mondiale ont accéléré l'adoption des initiatives de transformation numérique.::french
+They watch movies.::english
+Sie schauen Filme.::german
+Ei se uită la filme.::romanian
+Ellos miran películas.::spanish
+Eles assistem filmes.::portuguese
+Loro guardano film.::italian
+De tittar på filmer.::swedish
+Zij kijken naar films.::dutch
+Ils regardent des films.::french
+The sophisticated cryptographic protocols ensure secure communication across distributed networks.::english
+Die hochentwickelten kryptografischen Protokolle gewährleisten sichere Kommunikation über verteilte Netzwerke.::german
+Protocoalele criptografice sofisticate asigură o comunicare securizată pe rețele distribuite.::romanian
+Los sofisticados protocolos criptográficos aseguran una comunicación segura a través de redes distribuidas.::spanish
+Os sofisticados protocolos criptográficos garantem comunicação segura em redes distribuídas.::portuguese
+I sofisticati protocolli crittografici assicurano una comunicazione sicura attraverso reti distribuite.::italian
+De sofistikerade kryptografiska protokollen säkerställer säker kommunikation över distribuerade nätverk.::swedish
+De geavanceerde cryptografische protocollen zorgen voor veilige communicatie over gedistribueerde netwerken.::dutch
+Les protocoles cryptographiques sophistiqués assurent une communication sécurisée sur les réseaux distribués.::french
+We listen to music.::english
+Wir hören Musik.::german
+Noi ascultăm muzică.::romanian
+Nosotros escuchamos música.::spanish
+Nós ouvimos música.::portuguese
+Noi ascoltiamo musica.::italian
+Vi lyssnar på musik.::swedish
+Wij luisteren naar muziek.::dutch
+Nous écoutons de la musique.::french
+The intricate dance choreography required months of intensive rehearsal and precise coordination.::english
+Die komplizierte Tanzchoreografie erforderte Monate intensiver Proben und präziser Koordination.::german
+Coregrafia intricată de dans a necesitat luni de repetiții intensive și coordonare precisă.::romanian
+La intrincada coreografía de baile requirió meses de ensayo intensivo y coordinación precisa.::spanish
+A intrincada coreografia de dança exigiu meses de ensaio intensivo e coordenação precisa.::portuguese
+L'intricata coreografia di danza ha richiesto mesi di prove intensive e coordinazione precisa.::italian
+Den intrikata danskoreografin krävde månader av intensiv repetition och exakt samordning.::swedish
+De ingewikkelde danschoreografie vereiste maanden van intensieve repetitie en precieze coördinatie.::dutch
+La chorégraphie de danse complexe a nécessité des mois de répétition intensive et de coordination précise.::french
+She paints pictures.::english
+Sie malt Bilder.::german
+Ea pictează tablouri.::romanian
+Ella pinta cuadros.::spanish
+Ela pinta quadros.::portuguese
+Lei dipinge quadri.::italian
+Hon målar bilder.::swedish
+Ze schildert schilderijen.::dutch
+Elle peint des tableaux.::french
+The unprecedented collaboration between academic institutions and industry partners yielded groundbreaking innovations.::english
+Die beispiellose Zusammenarbeit zwischen akademischen Einrichtungen und Industriepartnern ergab bahnbrechende Innovationen.::german
+Colaborarea fără precedent dintre instituțiile academice și partenerii din industrie a produs inovații revoluționare.::romanian
+La colaboración sin precedentes entre instituciones académicas y socios industriales produjo innovaciones revolucionarias.::spanish
+A colaboração sem precedentes entre instituições acadêmicas e parceiros da indústria rendeu inovações inovadoras.::portuguese
+La collaborazione senza precedenti tra istituzioni accademiche e partner industriali ha prodotto innovazioni rivoluzionarie.::italian
+Det oförlikneliga samarbetet mellan akademiska institutioner och industrip partners gav banbrytande innovationer.::swedish
+De ongekende samenwerking tussen academische instellingen en industriële partners leverde baanbrekende innovaties op.::dutch
+La collaboration sans précédent entre les institutions académiques et les partenaires industriels a produit des innovations révolutionnaires.::french
+They drive cars.::english
+Sie fahren Autos.::german
+Ei conduc mașini.::romanian
+Ellos conducen coches.::spanish
+Eles dirigem carros.::portuguese
+Loro guidano macchine.::italian
+De kör bilar.::swedish
+Zij rijden auto's.::dutch
+Ils conduisent des voitures.::french
+The sophisticated machine learning algorithms continuously adapt to evolving data patterns.::english
+Die hochentwickelten maschinellen Lernalgorithmen passen sich kontinuierlich an sich entwickelnde Datenmuster an.::german
+Algoritmii sofisticați de învățare automată se adaptează continuu la modelele de date în evoluție.::romanian
+Los sofisticados algoritmos de aprendizaje automático se adaptan continuamente a los patrones de datos en evolución.::spanish
+Os sofisticados algoritmos de aprendizado de máquina se adaptam continuamente aos padrões de dados em evolução.::portuguese
+I sofisticati algoritmi di apprendimento automatico si adattano continuamente ai modelli di dati in evoluzione.::italian
+De sofistikerade maskininlärningsalgoritmerna anpassar sig kontinuerligt till utvecklande datamönster.::swedish
+De geavanceerde machine learning-algoritmen passen zich continu aan aan evoluerende gegevenspatronen.::dutch
+Les algorithmes sophistiqués d'apprentissage automatique s'adaptent continuellement aux modèles de données en évolution.::french
+We drink water.::english
+Wir trinken Wasser.::german
+Noi bem apă.::romanian
+Nosotros bebemos agua.::spanish
+Nós bebemos água.::portuguese
+Noi beviamo acqua.::italian
+Vi dricker vatten.::swedish
+Wij drinken water.::dutch
+Nous buvons de l'eau.::french
+The intricate architectural design seamlessly blends historical elements with contemporary aesthetics.::english
+Das komplizierte architektonische Design verbindet nahtlos historische Elemente mit zeitgenössischer Ästhetik.::german
+Designul arhitectural complex îmbină perfect elementele istorice cu estetica contemporană.::romanian
+El intrincado diseño arquitectónico mezcla perfectamente elementos históricos con estética contemporánea.::spanish
+O intrincado design arquitetônico mistura perfeitamente elementos históricos com estética contemporânea.::portuguese
+L'intricato design architettonico fonde perfettamente elementi storici con l'estetica contemporanea.::italian
+Den intrikata arkitektoniska designen blandar sömlöst historiska element med samtida estetik.::swedish
+Het ingewikkelde architectonische ontwerp vermengt naadloos historische elementen met eigentijdse esthetiek.::dutch
+La conception architecturale complexe mélange parfaitement les éléments historiques avec l'esthétique contemporaine.::french
+He plays guitar.::english
+Er spielt Gitarre.::german
+El cântă la chitară.::romanian
+Él toca la guitarra.::spanish
+Ele toca guitarra.::portuguese
+Lui suona la chitarra.::italian
+Han spelar gitarr.::swedish
+Hij speelt gitaar.::dutch
+Il joue de la guitare.::french
+Cô ấy dạy toán.::vietnamese
+O matematik öğretiyor.::turkish
+Dia mengajar matematika.::indonesian
+Tình hình địa chính trị phức tạp đòi hỏi sự vận dụng ngoại giao cẩn trọng và tầm nhìn chiến lược.::vietnamese
+Karmaşık jeopolitik durum dikkatli diplomatik manevralar ve stratejik öngörü gerektiriyor.::turkish
+Situasi geopolitik yang kompleks memerlukan manuver diplomatik yang hati-hati dan wawasan strategis.::indonesian
+Học sinh phải hiểu các nguyên lý cơ bản của đại số.::vietnamese
+Öğrenciler cebirin temel ilkelerini anlamalıdır.::turkish
+Siswa harus memahami prinsip dasar aljabar.::indonesian
+Hợp tác quốc tế là cần thiết để giải quyết biến đổi khí hậu.::vietnamese
+İklim değişikliğiyle mücadelede uluslararası işbirliği şarttır.::turkish
+Kerja sama internasional sangat penting untuk mengatasi perubahan iklim.::indonesian
+Tư duy phản biện là một kỹ năng quý giá trong giáo dục hiện đại.::vietnamese
+Eleştirel düşünme modern eğitimde değerli bir beceridir.::turkish
+Berpikir kritis adalah keterampilan yang berharga dalam pendidikan modern.::indonesian
+Anh ấy đang đọc một cuốn sách về lịch sử thế giới.::vietnamese
+O dünya tarihi hakkında bir kitap okuyor.::turkish
+Dia sedang membaca buku tentang sejarah dunia.::indonesian
+Chúng tôi sẽ đi du lịch vào mùa hè này.::vietnamese
+Bu yaz seyahate çıkacağız.::turkish
+Kami akan bepergian musim panas ini.::indonesian
+Máy tính của tôi bị hỏng và tôi cần sửa nó.::vietnamese
+Bilgisayarım bozuldu ve tamir ettirmem gerekiyor.::turkish
+Komputer saya rusak dan saya perlu memperbaikinya.::indonesian
+Cô ấy thích nghe nhạc cổ điển.::vietnamese
+Klasik müzik dinlemeyi seviyor.::turkish
+Dia suka mendengarkan musik klasik.::indonesian
+Tôi đang học cách lập trình bằng Python.::vietnamese
+Python ile programlama öğreniyorum.::turkish
+Saya sedang belajar pemrograman dengan Python.::indonesian
+Bài kiểm tra toán rất khó.::vietnamese
+Matematik sınavı çok zordu.::turkish
+Ujian matematika itu sangat sulit.::indonesian
+Chúng tôi cần một chiến lược mới để giải quyết vấn đề này.::vietnamese
+Bu sorunu çözmek için yeni bir stratejiye ihtiyacımız var.::turkish
+Kami membutuhkan strategi baru untuk menyelesaikan masalah ini.::indonesian
+Thời tiết hôm nay rất đẹp.::vietnamese
+Bugün hava çok güzel.::turkish
+Cuaca hari ini sangat bagus.::indonesian
+Tôi đang viết một bài luận về văn hóa Việt Nam.::vietnamese
+Vietnam kültürü hakkında bir makale yazıyorum.::turkish
+Saya sedang menulis esai tentang budaya Vietnam.::indonesian
+The conference attracted researchers from around the world.::english
+Die Konferenz zog Forscher aus aller Welt an.::german
+Conferința a atras cercetători din întreaga lume.::romanian
+La conferencia atrajo a investigadores de todo el mundo.::spanish
+A conferência atraiu pesquisadores de todo o mundo.::portuguese
+La conferenza ha attirato ricercatori da tutto il mondo.::italian
+Konferensen lockade forskare från hela världen.::swedish
+De conferentie trok onderzoekers van over de hele wereld.::dutch
+La conférence a attiré des chercheurs du monde entier.::french
+Hội nghị thu hút các nhà nghiên cứu từ khắp nơi trên thế giới.::vietnamese
+Konferans dünyanın dört bir yanından araştırmacıları çekti.::turkish
+Konferensi menarik para peneliti dari seluruh dunia.::indonesian
+She brewed a fresh pot of tea while reading the news.::english
+Sie kochte eine frische Kanne Tee, während sie die Nachrichten las.::german
+Ea a preparat un ceainic proaspăt în timp ce citea știrile.::romanian
+Ella preparó una tetera de té mientras leía las noticias.::spanish
+Ela fez uma nova chaleira de chá enquanto lia as notícias.::portuguese
+Lei ha preparato una nuova teiera di tè mentre leggeva le notizie.::italian
+Hon kokade en färsk kanna te medan hon läste nyheterna.::swedish
+Ze zette een verse pot thee terwijl ze het nieuws las.::dutch
+Elle a préparé une théière fraîche en lisant les nouvelles.::french
+Cô ấy pha một ấm trà mới khi đang đọc tin tức.::vietnamese
+O haberleri okurken taze bir demlik çay demledi.::turkish
+Dia menyeduh satu teko teh sambil membaca berita.::indonesian
+The city skyline shimmered under the early morning sun.::english
+Die Skyline der Stadt schimmerte unter der Morgensonne.::german
+Linia orizontului orașului strălucea sub soarele dimineții.::romanian
+El horizonte de la ciudad brillaba bajo el sol de la mañana.::spanish
+O horizonte da cidade brilhava sob o sol da manhã.::portuguese
+Lo skyline della città scintillava sotto il sole del mattino.::italian
+Stadens silhuett glittrade i morgonsolen.::swedish
+De skyline van de stad schitterde in de ochtendzon.::dutch
+La ligne d’horizon de la ville scintillait sous le soleil matinal.::french
+Đường chân trời của thành phố lấp lánh dưới ánh nắng ban mai.::vietnamese
+Şehir silueti sabah güneşi altında parıldıyordu.::turkish
+Cakrawala kota berkilauan di bawah matahari pagi.::indonesian
+She organized her workspace to boost productivity.::english
+Sie organisierte ihren Arbeitsplatz, um produktiver zu sein.::german
+Ea și-a organizat spațiul de lucru pentru a fi mai productivă.::romanian
+Organizó su espacio de trabajo para aumentar su productividad.::spanish
+Ela organizou seu espaço de trabalho para aumentar a produtividade.::portuguese
+Ha organizzato il suo spazio di lavoro per aumentare la produttività.::italian
+Hon organiserade sin arbetsplats för att öka produktiviteten.::swedish
+Ze organiseerde haar werkplek om productiever te zijn.::dutch
+Elle a organisé son espace de travail pour améliorer sa productivité.::french
+Cô ấy sắp xếp lại chỗ làm việc để tăng hiệu quả.::vietnamese
+Verimliliği artırmak için çalışma alanını düzenledi.::turkish
+Dia mengatur ruang kerjanya untuk meningkatkan produktivitas.::indonesian
+The museum displayed a rare collection of medieval artifacts.::english
+Das Museum zeigte eine seltene Sammlung mittelalterlicher Artefakte.::german
+Muzeul a expus o colecție rară de artefacte medievale.::romanian
+El museo exhibía una rara colección de artefactos medievales.::spanish
+O museu exibiu uma rara coleção de artefatos medievais.::portuguese
+Il museo espone una rara collezione di manufatti medievali.::italian
+Museet visade en sällsynt samling medeltida föremål.::swedish
+Het museum toonde een zeldzame collectie middeleeuwse artefacten.::dutch
+Le musée présentait une rare collection d’artefacts médiévaux.::french
+Bảo tàng trưng bày một bộ sưu tập hiện vật thời trung cổ hiếm có.::vietnamese
+Müze, nadir bir ortaçağ eserleri koleksiyonu sergiledi.::turkish
+Museum itu menampilkan koleksi artefak abad pertengahan yang langka.::indonesian
+He refined the algorithm to reduce memory consumption.::english
+Er verfeinerte den Algorithmus, um den Speicherverbrauch zu reduzieren.::german
+A îmbunătățit algoritmul pentru a reduce consumul de memorie.::romanian
+Refinó el algoritmo para reducir el consumo de memoria.::spanish
+Ele aprimorou o algoritmo para reduzir o uso de memória.::portuguese
+Ha perfezionato l’algoritmo per ridurre il consumo di memoria.::italian
+Han förbättrade algoritmen för att minska minnesanvändningen.::swedish
+Hij verfijnde het algoritme om het geheugenverbruik te verminderen.::dutch
+Il a affiné l’algorithme pour réduire la consommation de mémoire.::french
+Anh ấy tinh chỉnh thuật toán để giảm mức sử dụng bộ nhớ.::vietnamese
+Belleği azaltmak için algoritmayı geliştirdi.::turkish
+Dia menyempurnakan algoritma untuk mengurangi penggunaan memori.::indonesian
+The bakery released a new line of pastries this week.::english
+Die Bäckerei brachte diese Woche eine neue Gebäcklinie heraus.::german
+Brutăria a lansat o nouă gamă de produse de patiserie săptămâna aceasta.::romanian
+La panadería lanzó una nueva línea de pasteles esta semana.::spanish
+A padaria lançou uma nova linha de doces esta semana.::portuguese
+La pasticceria ha lanciato una nuova linea di dolci questa settimana.::italian
+Bageriet lanserade en ny serie bakverk den här veckan.::swedish
+De bakkerij introduceerde deze week een nieuwe lijn gebak.::dutch
+La boulangerie a lancé une nouvelle gamme de pâtisseries cette semaine.::french
+Tiệm bánh đã ra mắt dòng bánh mới trong tuần này.::vietnamese
+Fırın bu hafta yeni bir hamur işi serisi çıkardı.::turkish
+Toko roti merilis lini kue baru minggu ini.::indonesian
+They conducted field research in remote rural areas.::english
+Sie führten Feldforschung in abgelegenen ländlichen Gebieten durch.::german
+Au efectuat cercetări pe teren în zone rurale izolate.::romanian
+Realizaron investigaciones de campo en zonas rurales remotas.::spanish
+Eles realizaram pesquisas de campo em áreas rurais remotas.::portuguese
+Hanno condotto ricerche sul campo in aree rurali remote.::italian
+De utförde fältforskning i avlägsna landsbygdsområden.::swedish
+Ze voerden veldonderzoek uit in afgelegen landelijke gebieden.::dutch
+Ils ont mené des recherches sur le terrain dans des zones rurales isolées.::french
+Họ tiến hành nghiên cứu thực địa ở các vùng nông thôn hẻo lánh.::vietnamese
+Uzak kırsal bölgelerde saha araştırması yaptılar.::turkish
+Mereka melakukan penelitian lapangan di daerah pedesaan terpencil.::indonesian
+Her thoughtful message brightened the entire day.::english
+Ihre nachdenkliche Nachricht erhellte den ganzen Tag.::german
+Mesajul ei atent a înseninat întreaga zi.::romanian
+Su mensaje atento alegró todo el día.::spanish
+A mensagem atenciosa dela iluminou o dia inteiro.::portuguese
+Il suo messaggio premuroso ha illuminato l’intera giornata.::italian
+Hennes omtänksamma meddelande gjorde hela dagen ljusare.::swedish
+Haar attente bericht maakte de hele dag beter.::dutch
+Son message attentionné a illuminé toute la journée.::french
+Tin nhắn chu đáo của cô ấy khiến cả ngày trở nên tươi sáng.::vietnamese
+Düşünceli mesajı tüm günü aydınlattı.::turkish
+Pesan penuh perhatian darinya mencerahkan sepanjang hari.::indonesian
+The team brainstormed creative ideas for the new campaign.::english
+Das Team sammelte kreative Ideen für die neue Kampagne.::german
+Echipa a făcut brainstorming pentru idei creative pentru noua campanie.::romanian
+El equipo generó ideas creativas para la nueva campaña.::spanish
+A equipe fez um brainstorming de ideias criativas para a nova campanha.::portuguese
+Il team ha fatto un brainstorming di idee creative per la nuova campagna.::italian
+Teamet brainstormade kreativa idéer för den nya kampanjen.::swedish
+Het team brainstormde creatieve ideeën voor de nieuwe campagne.::dutch
+L’équipe a imaginé des idées créatives pour la nouvelle campagne.::french
+Nhóm đưa ra nhiều ý tưởng sáng tạo cho chiến dịch mới.::vietnamese
+Ekip yeni kampanya için yaratıcı fikirler üretti.::turkish
+Tim menghasilkan ide kreatif untuk kampanye baru.::indonesian
+A gentle breeze drifted through the open window.::english
+Eine sanfte Brise wehte durch das offene Fenster.::german
+O adiere ușoară a trecut prin fereastra deschisă.::romanian
+Una brisa suave entró por la ventana abierta.::spanish
+Uma brisa suave passou pela janela aberta.::portuguese
+Una brezza leggera è entrata dalla finestra aperta.::italian
+En mild bris svepte in genom det öppna fönstret.::swedish
+Een zachte bries waaide door het open raam.::dutch
+Une légère brise a traversé la fenêtre ouverte.::french
+Một cơn gió nhẹ thổi qua cửa sổ đang mở.::vietnamese
+Hafif bir esinti açık pencereden içeri girdi.::turkish
+Angin sepoi-sepoi masuk melalui jendela yang terbuka.::indonesian
+The professor assigned a challenging set of problems.::english
+Der Professor gab einen anspruchsvollen Aufgaben­satz auf.::german
+Profesorul a dat un set de probleme provocator.::romanian
+El profesor asignó un conjunto de problemas desafiantes.::spanish
+O professor atribuiu um conjunto desafiador de problemas.::portuguese
+Il professore ha assegnato una serie impegnativa di problemi.::italian
+Professorn gav en utmanande uppsättning problem.::swedish
+De professor gaf een uitdagende reeks opdrachten.::dutch
+Le professeur a donné un ensemble de problèmes difficiles.::french
+Giáo sư giao một bộ bài tập đầy thử thách.::vietnamese
+Profesör zorlu bir problem seti verdi.::turkish
+Profesor memberikan satu set soal yang menantang.::indonesian
+She captured stunning photos during her trip to the mountains.::english
+Sie machte atemberaubende Fotos während ihrer Reise in die Berge.::german
+Ea a făcut fotografii uimitoare în timpul excursiei în munți.::romanian
+Tomó fotos impresionantes durante su viaje a las montañas.::spanish
+Ela tirou fotos incríveis durante sua viagem às montanhas.::portuguese
+Ha scattato foto mozzafiato durante il suo viaggio in montagna.::italian
+Hon tog fantastiska bilder under sin resa till bergen.::swedish
+Ze maakte prachtige foto’s tijdens haar reis naar de bergen.::dutch
+Elle a pris des photos magnifiques lors de son voyage en montagne.::french
+Cô ấy chụp được nhiều bức ảnh tuyệt đẹp trong chuyến đi lên núi.::vietnamese
+Dağlara yaptığı yolculukta muhteşem fotoğraflar çekti.::turkish
+Dia mengambil foto-foto menakjubkan selama perjalanannya ke pegunungan.::indonesian
+The library extended its opening hours to accommodate more students.::english
+Die Bibliothek verlängerte ihre Öffnungszeiten, um mehr Studierende aufzunehmen.::german
+Biblioteca și-a prelungit programul pentru a deservi mai mulți studenți.::romanian
+La biblioteca amplió su horario para recibir a más estudiantes.::spanish
+A biblioteca estendeu seu horário de funcionamento para atender mais alunos.::portuguese
+La biblioteca ha esteso gli orari di apertura per accogliere più studenti.::italian
+Biblioteket förlängde sina öppettider för att ta emot fler studenter.::swedish
+De bibliotheek verruimde haar openingstijden om meer studenten te ontvangen.::dutch
+La bibliothèque a prolongé ses horaires pour accueillir davantage d’étudiants.::french
+Thư viện đã kéo dài giờ mở cửa để phục vụ nhiều sinh viên hơn.::vietnamese
+Kütüphane daha fazla öğrenciye hizmet vermek için çalışma saatlerini uzattı.::turkish
+Perpustakaan memperpanjang jam buka untuk menampung lebih banyak mahasiswa.::indonesian
+A sudden thunderstorm forced everyone to take shelter.::english
+Ein plötzliches Gewitter zwang alle, Schutz zu suchen.::german
+O furtună bruscă i-a forțat pe toți să caute adăpost.::romanian
+Una tormenta repentina obligó a todos a buscar refugio.::spanish
+Uma tempestade repentina forçou todos a procurar abrigo.::portuguese
+Un temporale improvviso ha costretto tutti a cercare riparo.::italian
+Ett plötsligt åskväder tvingade alla att söka skydd.::swedish
+Een plotseling onweer dwong iedereen om beschutting te zoeken.::dutch
+Un orage soudain a forcé tout le monde à se mettre à l’abri.::french
+Một cơn giông bất chợt buộc mọi người phải tìm chỗ trú.::vietnamese
+Ani bir fırtına herkesin sığınak aramasına neden oldu.::turkish
+Badai tiba-tiba memaksa semua orang mencari tempat berlindung.::indonesian
+He reviewed the financial reports to identify trends.::english
+Er überprüfte die Finanzberichte, um Trends zu erkennen.::german
+A analizat rapoartele financiare pentru a identifica tendințe.::romanian
+Revisó los informes financieros para identificar tendencias.::spanish
+Ele revisou os relatórios financeiros para identificar tendências.::portuguese
+Ha esaminato i rapporti finanziari per individuare le tendenze.::italian
+Han granskade de finansiella rapporterna för att identifiera trender.::swedish
+Hij bekeek de financiële rapporten om trends te herkennen.::dutch
+Il a examiné les rapports financiers pour identifier des tendances.::french
+Anh ấy xem lại các báo cáo tài chính để xác định xu hướng.::vietnamese
+Finansal raporları trendleri belirlemek için inceledi.::turkish
+Dia meninjau laporan keuangan untuk mengidentifikasi tren.::indonesian
+The garden was filled with blooming flowers of every color.::english
+Der Garten war voller blühender Blumen in allen Farben.::german
+Grădina era plină de flori înflorite de toate culorile.::romanian
+El jardín estaba lleno de flores de todos los colores.::spanish
+O jardim estava cheio de flores de todas as cores.::portuguese
+Il giardino era pieno di fiori in fiore di ogni colore.::italian
+Trädgården var fylld med blommor i alla färger.::swedish
+De tuin stond vol bloemen in alle kleuren.::dutch
+Le jardin était rempli de fleurs écloses de toutes les couleurs.::french
+Khu vườn ngập tràn hoa nở rực rỡ đủ màu sắc.::vietnamese
+Bahçe her renkten çiçeklerle doluydu.::turkish
+Taman itu dipenuhi bunga beraneka warna yang sedang mekar.::indonesian
+She listened to a podcast about advancements in renewable energy.::english
+Sie hörte einen Podcast über Fortschritte bei erneuerbaren Energien.::german
+Ea a ascultat un podcast despre progresele în energia regenerabilă.::romanian
+Escuchó un pódcast sobre avances en energía renovable.::spanish
+Ela ouviu um podcast sobre avanços em energia renovável.::portuguese
+Ha ascoltato un podcast sui progressi nelle energie rinnovabili.::italian
+Hon lyssnade på en podcast om framsteg inom förnybar energi.::swedish
+Ze luisterde naar een podcast over vooruitgang in hernieuwbare energie.::dutch
+Elle a écouté un podcast sur les avancées des énergies renouvelables.::french
+Cô ấy nghe một podcast về những tiến bộ trong năng lượng tái tạo.::vietnamese
+Yenilenebilir enerjideki gelişmeler hakkında bir podcast dinledi.::turkish
+Dia mendengarkan podcast tentang kemajuan energi terbarukan.::indonesian
+They renovated the old house while preserving its original charm.::english
+Sie renovierten das alte Haus, während sie seinen ursprünglichen Charme bewahrten.::german
+Au renovat casa veche păstrând farmecul ei original.::romanian
+Renovaron la vieja casa conservando su encanto original.::spanish
+Eles reformaram a casa antiga preservando seu charme original.::portuguese
+Hanno ristrutturato la vecchia casa mantenendo il suo fascino originale.::italian
+De renoverade det gamla huset och bevarade dess ursprungliga charm.::swedish
+Ze renoveerden het oude huis terwijl ze de oorspronkelijke charme behielden.::dutch
+Ils ont rénové la vieille maison tout en préservant son charme d’origine.::french
+Họ cải tạo ngôi nhà cũ mà vẫn giữ được nét duyên ban đầu.::vietnamese
+Eski evi yenilediler ama orijinal havasını korudular.::turkish
+Mereka merenovasi rumah tua sambil mempertahankan pesona aslinya.::indonesian
+His curiosity drove him to explore topics outside his field.::english
+Seine Neugier trieb ihn dazu, Themen außerhalb seines Fachgebiets zu erkunden.::german
+Curiozitatea l-a determinat să exploreze subiecte din afara domeniului său.::romanian
+Su curiosidad lo llevó a explorar temas fuera de su campo.::spanish
+Sua curiosidade o levou a explorar assuntos fora de sua área.::portuguese
+La sua curiosità lo ha portato a esplorare argomenti al di fuori del suo campo.::italian
+Hans nyfikenhet drev honom att utforska ämnen utanför sitt område.::swedish
+Zijn nieuwsgierigheid dreef hem om onderwerpen buiten zijn vakgebied te verkennen.::dutch
+Sa curiosité l’a poussé à explorer des sujets en dehors de son domaine.::french
+Sự tò mò khiến anh ấy khám phá các chủ đề ngoài lĩnh vực của mình.::vietnamese
+Merakı onu kendi alanının dışındaki konuları keşfetmeye itti.::turkish
+Rasa penasaran mendorongnya mempelajari topik di luar bidangnya.::indonesian
+A soft melody drifted from the open café door.::english
+Eine sanfte Melodie drang aus der offenen Café-Tür.::german
+O melodie lină se auzea din ușa deschisă a cafenelei.::romanian
+Una suave melodía salía por la puerta abierta del café.::spanish
+Uma melodia suave vinha da porta aberta do café.::portuguese
+Una melodia dolce proveniva dalla porta aperta del caffè.::italian
+En mjuk melodi strömmade ut från den öppna café­dörren.::swedish
+Een zachte melodie kwam uit de open deur van het café.::dutch
+Une douce mélodie s’échappait de la porte ouverte du café.::french
+Một giai điệu nhẹ nhàng vang ra từ cánh cửa quán cà phê mở.::vietnamese
+Açık kafenin kapısından yumuşak bir melodi geliyordu.::turkish
+Sebuah melodi lembut terdengar dari pintu kafe yang terbuka.::indonesian
+The scientist proposed a new model to explain the phenomenon.::english
+Der Wissenschaftler schlug ein neues Modell zur Erklärung des Phänomens vor.::german
+Oamenii de știință au propus un nou model pentru a explica fenomenul.::romanian
+El científico propuso un nuevo modelo para explicar el fenómeno.::spanish
+O cientista propôs um novo modelo para explicar o fenômeno.::portuguese
+Lo scienziato ha proposto un nuovo modello per spiegare il fenomeno.::italian
+Forskaren föreslog en ny modell för att förklara fenomenet.::swedish
+De wetenschapper stelde een nieuw model voor om het fenomeen te verklaren.::dutch
+Le scientifique a proposé un nouveau modèle pour expliquer le phénomène.::french
+Nhà khoa học đề xuất một mô hình mới để giải thích hiện tượng.::vietnamese
+Bilim insanı olguyu açıklamak için yeni bir model önerdi.::turkish
+Ilmuwan tersebut mengusulkan model baru untuk menjelaskan fenomena itu.::indonesian
+She practiced daily to improve her pronunciation skills.::english
+Sie übte täglich, um ihre Aussprache zu verbessern.::german
+Ea a exersat zilnic pentru a-și îmbunătăți pronunția.::romanian
+Practicó todos los días para mejorar su pronunciación.::spanish
+Ela praticou diariamente para melhorar a pronúncia.::portuguese
+Si è allenata ogni giorno per migliorare la pronuncia.::italian
+Hon övade dagligen för att förbättra sitt uttal.::swedish
+Ze oefende dagelijks om haar uitspraak te verbeteren.::dutch
+Elle s’est entraînée chaque jour pour améliorer sa prononciation.::french
+Cô ấy luyện tập mỗi ngày để cải thiện phát âm.::vietnamese
+Telaffuzunu geliştirmek için her gün pratik yaptı.::turkish
+Dia berlatih setiap hari untuk meningkatkan pelafalan.::indonesian
+The new policy aims to reduce environmental pollution.::english
+Die neue Politik zielt darauf ab, die Umweltverschmutzung zu reduzieren.::german
+Noul regulament are scopul de a reduce poluarea mediului.::romanian
+La nueva política busca reducir la contaminación ambiental.::spanish
+A nova política visa reduzir a poluição ambiental.::portuguese
+La nuova politica mira a ridurre l’inquinamento ambientale.::italian
+Den nya policyn syftar till att minska miljöföroreningar.::swedish
+Het nieuwe beleid is bedoeld om milieuvervuiling te verminderen.::dutch
+La nouvelle politique vise à réduire la pollution environnementale.::french
+Chính sách mới nhằm giảm thiểu ô nhiễm môi trường.::vietnamese
+Yeni politika çevre kirliliğini azaltmayı hedefliyor.::turkish
+Kebijakan baru bertujuan mengurangi polusi lingkungan.::indonesian
+A warm cup of soup was exactly what he needed.::english
+Eine warme Tasse Suppe war genau das, was er brauchte.::german
+O cană de supă caldă era exact ce avea nevoie.::romanian
+Una taza de sopa caliente era justo lo que necesitaba.::spanish
+Uma xícara de sopa quente era exatamente o que ele precisava.::portuguese
+Una tazza di zuppa calda era proprio ciò di cui aveva bisogno.::italian
+En kopp varm soppa var precis vad han behövde.::swedish
+Een warme kop soep was precies wat hij nodig had.::dutch
+Une tasse de soupe chaude était exactement ce dont il avait besoin.::french
+Một bát súp nóng là đúng thứ anh ấy cần.::vietnamese
+Bir fincan sıcak çorba tam da ihtiyacı olan şeydi.::turkish
+Semangkuk sup hangat adalah tepat yang ia butuhkan.::indonesian
+The documentary highlighted the importance of cultural preservation.::english
+Die Dokumentation hob die Bedeutung der kulturellen Bewahrung hervor.::german
+Documentarul a evidențiat importanța păstrării culturale.::romanian
+El documental destacó la importancia de la preservación cultural.::spanish
+O documentário destacou a importância da preservação cultural.::portuguese
+Il documentario ha sottolineato l’importanza della conservazione culturale.::italian
+Dokumentären betonade vikten av att bevara kultur.::swedish
+De documentaire benadrukte het belang van cultureel behoud.::dutch
+Le documentaire a souligné l’importance de la préservation culturelle.::french
+Bộ phim tài liệu nhấn mạnh tầm quan trọng của việc bảo tồn văn hóa.::vietnamese
+Belgesel kültürel korumanın önemini vurguladı.::turkish
+Dokumenter menyoroti pentingnya pelestarian budaya.::indonesian
+The children built a small fortress out of cardboard boxes.::english
+Die Kinder bauten eine kleine Festung aus Kartons.::german
+Copiii au construit o mică fortăreață din cutii de carton.::romanian
+Los niños construyeron una pequeña fortaleza con cajas de cartón.::spanish
+As crianças construíram uma pequena fortaleza com caixas de papelão.::portuguese
+I bambini hanno costruito una piccola fortezza con scatole di cartone.::italian
+Barnen byggde en liten fästning av kartonglådor.::swedish
+De kinderen bouwden een klein fort van kartonnen dozen.::dutch
+Les enfants ont construit une petite forteresse avec des boîtes en carton.::french
+Lũ trẻ xây một pháo đài nhỏ từ những hộp các-tông.::vietnamese
+Çocuklar karton kutulardan küçük bir kale yaptılar.::turkish
+Anak-anak membuat benteng kecil dari kotak karton.::indonesian
+He saved the document before closing the program.::english
+Er speicherte das Dokument, bevor er das Programm schloss.::german
+A salvat documentul înainte de a închide programul.::romanian
+Guardó el documento antes de cerrar el programa.::spanish
+Ele salvou o documento antes de fechar o programa.::portuguese
+Ha salvato il documento prima di chiudere il programma.::italian
+Han sparade dokumentet innan han stängde programmet.::swedish
+Hij sloeg het document op voordat hij het programma sloot.::dutch
+Il a enregistré le document avant de fermer le programme.::french
+Anh ấy lưu tài liệu trước khi đóng chương trình.::vietnamese
+Programı kapatmadan önce belgeyi kaydetti.::turkish
+Dia menyimpan dokumen sebelum menutup program.::indonesian
+They navigated the dense forest using a hand-drawn map.::english
+Sie durchquerten den dichten Wald mit einer handgezeichneten Karte.::german
+Au traversat pădurea deasă folosind o hartă desenată de mână.::romanian
+Atravesaron el bosque denso usando un mapa dibujado a mano.::spanish
+Eles atravessaram a floresta densa usando um mapa desenhado à mão.::portuguese
+Hanno attraversato la foresta fitta usando una mappa disegnata a mano.::italian
+De tog sig genom den täta skogen med hjälp av en handritad karta.::swedish
+Ze navigeerden door het dichte bos met een handgetekende kaart.::dutch
+Ils ont traversé la forêt dense à l’aide d’une carte dessinée à la main.::french
+Họ đi qua khu rừng rậm bằng một bản đồ vẽ tay.::vietnamese
+Yoğun ormanda el çizimi bir harita kullanarak yol aldılar.::turkish
+Mereka menavigasi hutan lebat menggunakan peta buatan tangan.::indonesian
+A new student joined the class mid-semester.::english
+Ein neuer Student trat zur Mitte des Semesters der Klasse bei.::german
+Un nou student s-a alăturat clasei la mijlocul semestrului.::romanian
+Un nuevo estudiante se unió a la clase a mitad del semestre.::spanish
+Um novo aluno entrou na turma no meio do semestre.::portuguese
+Uno studente nuovo si è unito alla classe a metà semestre.::italian
+En ny elev började i klassen mitt i terminen.::swedish
+Een nieuwe student voegde zich halverwege het semester bij de klas.::dutch
+Un nouvel élève a rejoint la classe au milieu du semestre.::french
+Một học sinh mới chuyển vào lớp giữa học kỳ.::vietnamese
+Dönemin ortasında sınıfa yeni bir öğrenci katıldı.::turkish
+Seorang siswa baru bergabung dengan kelas di tengah semester.::indonesian
+The boat rocked gently as the waves rolled in.::english
+Das Boot schaukelte sanft, als die Wellen hereinrollten.::german
+Barca se legăna ușor în timp ce valurile se rostogoleau.::romanian
+El bote se mecía suavemente mientras llegaban las olas.::spanish
+O barco balançava suavemente enquanto as ondas chegavam.::portuguese
+La barca oscillava dolcemente mentre arrivavano le onde.::italian
+Båten gungade mjukt när vågorna rullade in.::swedish
+De boot schommelde zachtjes terwijl de golven binnenrolden.::dutch
+Le bateau oscillait doucement tandis que les vagues arrivaient.::french
+Chiếc thuyền đung đưa nhẹ khi những con sóng ập vào.::vietnamese
+Dalgalar gelirken tekne hafifçe sallanıyordu.::turkish
+Perahu bergoyang lembut saat ombak datang.::indonesian
+He bookmarked the article to read it later.::english
+Er setzte ein Lesezeichen bei dem Artikel, um ihn später zu lesen.::german
+A pus articolul la favorite pentru a-l citi mai târziu.::romanian
+Marcó el artículo para leerlo más tarde.::spanish
+Ele marcou o artigo para ler mais tarde.::portuguese
+Ha aggiunto l’articolo ai segnalibri per leggerlo più tardi.::italian
+Han bokmärkte artikeln för att läsa den senare.::swedish
+Hij voegde het artikel toe aan zijn bladwijzers om later te lezen.::dutch
+Il a mis l’article en favori pour le lire plus tard.::french
+Anh ấy đánh dấu bài viết lại để đọc sau.::vietnamese
+Makaleyi sonra okumak için yer imlerine ekledi.::turkish
+Dia menandai artikel itu untuk dibaca nanti.::indonesian
+The cat slept.::english
+Die Katze schlief.::german
+Pisica dormea.::romanian
+El gato dormía.::spanish
+O gato dormia.::portuguese
+Il gatto dormiva.::italian
+Katten sov.::swedish
+De kat sliep.::dutch
+Le chat dormait.::french
+Con mèo đang ngủ.::vietnamese
+Kedi uyuyordu.::turkish
+Kucing itu tidur.::indonesian
+She hesitated for a moment, unsure whether the encrypted message was truly intended for her or merely a misrouted transmission sent by an outdated server.::english
+Sie zögerte einen Moment, unsicher, ob die verschlüsselte Nachricht wirklich für sie bestimmt war oder nur eine fehlgeleitete Übertragung eines veralteten Servers.::german
+A ezitat o clipă, nesigură dacă mesajul criptat îi era cu adevărat destinat sau era doar o transmitere redirecționată greșit de un server învechit.::romanian
+Ella dudó un instante, sin saber si el mensaje cifrado estaba realmente dirigido a ella o si era simplemente una transmisión equivocada enviada por un servidor obsoleto.::spanish
+Ela hesitou por um instante, sem saber se a mensagem criptografada era realmente destinada a ela ou apenas uma transmissão equivocada enviada por um servidor ultrapassado.::portuguese
+Esitò per un momento, incerta se il messaggio criptato fosse davvero per lei o solo una trasmissione errata inviata da un server obsoleto.::italian
+Hon tvekade ett ögonblick, osäker på om det krypterade meddelandet verkligen var avsett för henne eller om det bara var en felriktad överföring från en föråldrad server.::swedish
+Ze aarzelde even, niet zeker of het versleutelde bericht echt voor haar bedoeld was of slechts een verkeerd doorgestuurde transmissie van een verouderde server.::dutch
+Elle hésita un instant, se demandant si le message chiffré lui était réellement destiné ou s’il s’agissait d’une transmission égarée provenant d’un serveur obsolète.::french
+Cô ấy chần chừ một chút, không chắc liệu tin nhắn mã hóa có thật sự dành cho mình hay chỉ là một truyền tải sai lệch từ một máy chủ cũ kỹ.::vietnamese
+Bir an duraksadı; şifreli mesajın gerçekten ona mı gönderildiğinden yoksa eski bir sunucudan yanlış yönlendirilmiş bir iletimden mi ibaret olduğundan emin değildi.::turkish
+Ia ragu sejenak, tidak yakin apakah pesan terenkripsi itu benar-benar ditujukan kepadanya atau hanya transmisi salah arah dari server usang.::indonesian
+We’re leaving now.::english
+Wir gehen jetzt.::german
+Plecam acum.::romanian
+Nos vamos ahora.::spanish
+Estamos indo agora.::portuguese
+Ce ne andiamo ora.::italian
+Vi går nu.::swedish
+We gaan nu.::dutch
+Nous partons maintenant.::french
+Chúng tôi đi bây giờ.::vietnamese
+Şimdi gidiyoruz.::turkish
+Kami pergi sekarang.::indonesian
+The experimental engine, though rough in appearance, demonstrated an unexpectedly efficient thermal cycle that challenged several longstanding assumptions in the field.::english
+Der experimentelle Motor zeigte trotz seines groben Aussehens einen unerwartet effizienten thermischen Kreislauf, der mehrere langjährige Annahmen in diesem Bereich infrage stellte.::german
+Motorul experimental, deși arăta nefinisat, a demonstrat un ciclu termic surprinzător de eficient, contestând mai multe ipoteze vechi din domeniu.::romanian
+El motor experimental, aunque rudimentario en apariencia, demostró un ciclo térmico sorprendentemente eficiente que puso en duda varias suposiciones tradicionales del campo.::spanish
+O motor experimental, apesar da aparência grosseira, demonstrou um ciclo térmico inesperadamente eficiente, desafiando várias suposições antigas na área.::portuguese
+Il motore sperimentale, pur avendo un aspetto grezzo, mostrò un ciclo termico sorprendentemente efficiente che mise in discussione diverse ipotesi consolidate nel settore.::italian
+Den experimentella motorn, trots sitt grova utseende, uppvisade en oväntat effektiv termisk cykel som utmanade flera långvariga antaganden inom området.::swedish
+De experimentele motor, hoewel ruw van uiterlijk, toonde een onverwacht efficiënte thermische cyclus die verschillende lang bestaande aannames in het veld uitdaagde.::dutch
+Le moteur expérimental, malgré son aspect rudimentaire, a démontré un cycle thermique étonnamment efficace remettant en cause plusieurs hypothèses établies.::french
+Động cơ thử nghiệm, dù trông khá thô sơ, lại thể hiện một chu trình nhiệt hiệu quả bất ngờ, thách thức nhiều giả định lâu năm trong lĩnh vực này.::vietnamese
+Deneysel motor, kaba görünümüne rağmen, alandaki uzun süredir kabul gören varsayımları sorgulayan beklenmedik derecede verimli bir termal çevrim sergiledi.::turkish
+Mesin eksperimental itu, meskipun terlihat kasar, menunjukkan siklus termal yang sangat efisien sehingga menantang banyak asumsi lama di bidang tersebut.::indonesian
+Run!::english
+Lauf!::german
+Aleargă!::romanian
+¡Corre!::spanish
+Corre!::portuguese
+Corri!::italian
+Spring!::swedish
+Ren!::dutch
+Cours !::french
+Chạy đi!::vietnamese
+Koş!::turkish
+Lari!::indonesian
+After several months of silent development, the team unveiled an early prototype featuring dynamic language adaptation, context-aware inference, and a modular architecture designed to scale across multiple platforms with minimal overhead.::english
+Nach mehreren Monaten stiller Entwicklung enthüllte das Team einen frühen Prototypen mit dynamischer Sprachadaption, kontextbewusster Inferenz und einer modularen Architektur, die darauf ausgelegt ist, plattformübergreifend mit minimalem Overhead zu skalieren.::german
+După câteva luni de dezvoltare discretă, echipa a dezvăluit un prototip timpuriu cu adaptare dinamică a limbajului, inferență dependentă de context și o arhitectură modulară concepută pentru a se scala pe mai multe platforme cu un cost minim.::romanian
+Tras varios meses de desarrollo silencioso, el equipo presentó un prototipo inicial con adaptación dinámica del lenguaje, inferencia consciente del contexto y una arquitectura modular diseñada para escalar entre múltiples plataformas con un costo mínimo.::spanish
+Após vários meses de desenvolvimento silencioso, a equipe revelou um protótipo inicial com adaptação dinâmica de linguagem, inferência sensível ao contexto e uma arquitetura modular projetada para escalar em várias plataformas com sobrecarga mínima.::portuguese
+Dopo diversi mesi di sviluppo silenzioso, il team ha rivelato un prototipo iniziale con adattamento dinamico del linguaggio, inferenza sensibile al contesto e un’architettura modulare progettata per scalare su più piattaforme con un overhead minimo.::italian
+Efter flera månaders tyst utveckling presenterade teamet en tidig prototyp med dynamisk språkanpassning, kontextmedveten inferens och en modulär arkitektur avsedd att skala över flera plattformar med minimalt overhead.::swedish
+Na maanden van stille ontwikkeling onthulde het team een vroeg prototype met dynamische taaladaptatie, contextbewuste inferentie en een modulaire architectuur ontworpen om over meerdere platforms te schalen met minimale overhead.::dutch
+Après plusieurs mois de développement discret, l’équipe a dévoilé un premier prototype doté d’une adaptation linguistique dynamique, d’une inférence sensible au contexte et d’une architecture modulaire capable de s’adapter à diverses plateformes avec une surcharge minimale.::french
+Sau vài tháng phát triển âm thầm, nhóm đã công bố một nguyên mẫu sớm có khả năng thích ứng ngôn ngữ động, suy luận theo ngữ cảnh và kiến trúc mô-đun có thể mở rộng trên nhiều nền tảng với chi phí rất thấp.::vietnamese
+Birkaç aylık sessiz geliştirmeden sonra ekip, dinamik dil uyarlaması, bağlam farkındalıklı çıkarım ve minimum ek yükle çoklu platformlara ölçeklenebilen modüler bir mimari içeren erken bir prototip açıkladı.::turkish
+Setelah beberapa bulan pengembangan diam-diam, tim mengungkap prototipe awal dengan adaptasi bahasa dinamis, inferensi berbasis konteks, dan arsitektur modular yang dirancang untuk melakukan skala di berbagai platform dengan beban minimal.::indonesian
+I forgot my keys again.::english
+Ich habe schon wieder meine Schlüssel vergessen.::german
+Mi-am uitat iar cheile.::romanian
+Olvidé mis llaves otra vez.::spanish
+Esqueci minhas chaves de novo.::portuguese
+Ho dimenticato di nuovo le chiavi.::italian
+Jag glömde mina nycklar igen.::swedish
+Ik ben mijn sleutels weer vergeten.::dutch
+J’ai encore oublié mes clés.::french
+Tôi lại quên chìa khóa rồi.::vietnamese
+Anahtarlarımı yine unuttum.::turkish
+Aku lupa kunciku lagi.::indonesian
+The river curved sharply around the base of the cliff, carving a path that had taken centuries to form.::english
+Der Fluss bog sich scharf um den Fuß der Klippe und schnitzte einen Pfad, der sich über Jahrhunderte geformt hatte.::german
+Râul se curba brusc în jurul bazei stâncii, sculptând un traseu care se formase de-a lungul secolelor.::romanian
+El río se curvaba brusc alrededor de la base del acantilado, tallando un camino que tardó siglos en formarse.::spanish
+O rio fazia uma curva acentuada na base do penhasco, esculpindo um caminho que levou séculos para se formar.::portuguese
+Il fiume curvava bruscamente alla base della scogliera, scavando un passaggio che aveva impiegato secoli a formarsi.::italian
+Floden svängde tvärt runt klippfoten och hade skapat sin väg under århundraden.::swedish
+De rivier boog scherp rond de voet van de klif en had eeuwenlang zijn pad uitgesleten.::dutch
+La rivière se courbait brusquement autour de la base de la falaise, creusant un passage forgé au fil des siècles.::french
+Dòng sông uốn cong gắt quanh chân vách đá, khắc nên con đường phải mất hàng thế kỷ mới hình thành.::vietnamese
+Nehir, yüzyıllar boyunca oluşan bir yolu oyarken kayanın dibinde keskin bir dönüş yaptı.::turkish
+Sungai itu berbelok tajam mengelilingi kaki tebing, mengukir jalur yang terbentuk selama berabad-abad.::indonesian
+No idea.::english
+Keine Ahnung.::german
+Nicio idee.::romanian
+Ni idea.::spanish
+Nenhuma ideia.::portuguese
+Nessuna idea.::italian
+Ingen aning.::swedish
+Geen idee.::dutch
+Aucune idée.::french
+Không biết.::vietnamese
+Hiç fikrim yok.::turkish
+Tidak tahu.::indonesian
+The old radio emitted a soft crackle, followed by a melody so faint it sounded like a memory trying to reach the present moment.::english
+Das alte Radio gab ein leises Knistern von sich, gefolgt von einer so schwachen Melodie, als wäre es eine Erinnerung, die versuchte, den gegenwärtigen Moment zu erreichen.::german
+Vechiul radio a scos un pâcănit ușor, urmat de o melodie atât de slabă încât părea o amintire care încerca să ajungă în prezent.::romanian
+La vieja radio emitió un leve crujido, seguido de una melodía tan tenue que parecía un recuerdo intentando llegar al presente.::spanish
+O rádio antigo emitiu um leve estalo, seguido por uma melodia tão fraca que parecia uma memória tentando alcançar o presente.::portuguese
+La vecchia radio emise un lieve crepitio, seguito da una melodia così tenue da sembrare un ricordo che cercava di raggiungere il presente.::italian
+Den gamla radion gav ifrån sig ett svagt sprak, följt av en så svag melodi att den lät som ett minne som försökte nå nuet.::swedish
+De oude radio gaf een zachte kraak, gevolgd door een melodie zo zwak dat het klonk als een herinnering die de huidige tijd probeerde te bereiken.::dutch
+La vieille radio émit un léger grésillement, suivi d’une mélodie si faible qu’on aurait dit un souvenir cherchant à atteindre le présent.::french
+Chiếc radio cũ phát ra tiếng lách tách nhẹ, rồi vang lên một giai điệu mờ ảo như ký ức cố chạm tới hiện tại.::vietnamese
+Eski radyo hafif bir cızırtı çıkardı, ardından şimdiki ana ulaşmaya çalışan bir anı gibi belirsiz bir melodi duyuldu.::turkish
+Radio tua itu mengeluarkan derak lembut, diikuti melodi begitu samar hingga terdengar seperti kenangan yang mencoba menjangkau masa kini.::indonesian
+Wait.::english
+Warte.::german
+Așteaptă.::romanian
+Espera.::spanish
+Espera.::portuguese
+Aspetta.::italian
+Vänta.::swedish
+Wacht.::dutch
+Attends.::french
+Đợi đã.::vietnamese
+Bekle.::turkish
+Tunggu.::indonesian
+The committee, after extensive debate that lasted well into the evening, agreed to revise the proposal with stricter evaluation criteria and clearer implementation guidelines.::english
+Der Ausschuss stimmte nach einer langen Debatte, die bis in den Abend dauerte, zu, den Vorschlag mit strengeren Bewertungskriterien und klareren Umsetzungsvorgaben zu überarbeiten.::german
+Comitetul, după o dezbatere amplă care a durat până seara târziu, a fost de acord să revizuiască propunerea cu criterii de evaluare mai stricte și linii directoare mai clare pentru implementare.::romanian
+El comité, después de un extenso debate que se prolongó hasta la noche, aceptó revisar la propuesta con criterios de evaluación más estrictos y pautas de implementación más claras.::spanish
+O comitê, após um longo debate que se estendeu até a noite, concordou em revisar a proposta com critérios de avaliação mais rígidos e diretrizes de implementação mais claras.::portuguese
+Il comitato, dopo un ampio dibattito durato fino a tarda sera, ha concordato di rivedere la proposta con criteri di valutazione più rigorosi e linee guida di attuazione più chiare.::italian
+Kommittén, efter en lång debatt som pågick långt in på kvällen, gick med på att revidera förslaget med striktare utvärderingskriterier och tydligare riktlinjer för genomförande.::swedish
+De commissie stemde, na een langdurig debat dat tot laat in de avond duurde, ermee in het voorstel te herzien met strengere evaluatiecriteria en duidelijkere implementatierichtlijnen.::dutch
+Le comité, après un long débat qui s’est prolongé tard dans la soirée, a accepté de réviser la proposition avec des critères d’évaluation plus stricts et des directives d’application plus claires.::french
+Ủy ban, sau cuộc tranh luận kéo dài đến tận tối muộn, đã đồng ý sửa đổi đề xuất với các tiêu chí đánh giá nghiêm ngặt hơn và hướng dẫn thực hiện rõ ràng hơn.::vietnamese
+Komite, akşama kadar süren uzun tartışmalardan sonra, teklifi daha katı değerlendirme kriterleri ve daha net uygulama yönergeleriyle revize etmeyi kabul etti.::turkish
+Panitia, setelah perdebatan panjang hingga malam hari, sepakat untuk merevisi proposal dengan kriteria evaluasi yang lebih ketat dan panduan implementasi yang lebih jelas.::indonesian
+I’m cold.::english
+Mir ist kalt.::german
+Îmi este frig.::romanian
+Tengo frío.::spanish
+Estou com frio.::portuguese
+Ho freddo.::italian
+Jag fryser.::swedish
+Ik heb het koud.::dutch
+J’ai froid.::french
+Tôi lạnh.::vietnamese
+Üşüyorum.::turkish
+Aku kedinginan.::indonesian
+The lantern hanging above the doorway flickered as the wind swept through the narrow alley, casting shifting shadows that danced across the worn stone walls.::english
+Die Laterne über dem Eingang flackerte, als der Wind durch die enge Gasse fegte, und warf tanzende Schatten über die abgenutzten Steinwände.::german
+Felinarul agățat deasupra ușii a pâlpâit când vântul a trecut prin aleea îngustă, proiectând umbre mișcătoare pe pereții uzați de piatră.::romanian
+La linterna colgada sobre la puerta parpadeó cuando el viento recorrió el callejón estrecho, proyectando sombras danzantes sobre las paredes de piedra desgastadas.::spanish
+A lanterna pendurada acima da porta tremeluziu quando o vento passou pelo beco estreito, projetando sombras dançantes nas paredes de pedra desgastadas.::portuguese
+La lanterna appesa sopra l’ingresso tremolò mentre il vento soffiava nel vicolo stretto, proiettando ombre danzanti sulle pareti di pietra consumate.::italian
+Lyktan som hängde ovanför dörren fladdrade när vinden svepte genom den smala gränden och kastade skiftande skuggor över de slitna stenmurarna.::swedish
+De lantaarn boven de deuropening flakkerde toen de wind door de smalle steeg waaide en dansende schaduwen wierp op de versleten stenen muren.::dutch
+La lanterne suspendue au-dessus de l’entrée vacilla lorsque le vent traversa la ruelle étroite, projetant des ombres mouvantes sur les murs de pierre usés.::french
+Chiếc đèn lồng treo trên cửa khẽ chập chờn khi gió thổi qua con hẻm hẹp, tạo nên những bóng đổ lay động trên bức tường đá sờn cũ.::vietnamese
+Kapının üzerindeki fener, rüzgâr dar geçitten eserken titredi ve yıpranmış taş duvarlara dans eden gölgeler düşürdü.::turkish
+Lentera yang tergantung di atas pintu berkedip saat angin menerpa gang sempit, menebarkan bayangan bergerak di dinding batu yang aus.::indonesian
+He blinked twice, unsure whether the strange pattern of lights in the sky was a malfunctioning drone, an atmospheric anomaly, or simply his exhausted mind playing tricks on him.::english
+Er blinzelte zweimal, unsicher, ob das seltsame Lichtmuster am Himmel eine defekte Drohne, eine atmosphärische Anomalie oder einfach nur sein erschöpfter Geist war, der ihm Streiche spielte.::german
+A clipit de două ori, nefiind sigur dacă modelul ciudat de lumini de pe cer era o dronă defectă, o anomalie atmosferică sau doar mintea lui obosită jucându-i feste.::romanian
+Parpadeó dos veces, sin saber si el extraño patrón de luces en el cielo era un dron averiado, una anomalía atmosférica o simplemente su mente cansada engañándolo.::spanish
+Ele piscou duas vezes, sem saber se o estranho padrão de luzes no céu era um drone com defeito, uma anomalia atmosférica ou apenas sua mente exausta pregando peças.::portuguese
+Lui batté due volte le palpebre, incerto se quel bizzarro schema di luci nel cielo fosse un drone guasto, un’anomalia atmosferica o semplicemente la sua mente stanca che gli giocava brutti scherzi.::italian
+Han blinkade två gånger, osäker på om det märkliga ljusmönstret på himlen var en trasig drönare, en atmosfärisk anomali eller bara hans utmattade sinne som lurade honom.::swedish
+Hij knipperde twee keer, onzeker of het vreemde lichtpatroon aan de hemel een defecte drone, een atmosferische anomalie of simpelweg zijn vermoeide geest was die hem fopte.::dutch
+Il cligna des yeux deux fois, se demandant si l’étrange motif lumineux dans le ciel provenait d’un drone défectueux, d’une anomalie atmosphérique ou simplement de son esprit épuisé lui jouant des tours.::french
+Anh ấy chớp mắt hai lần, không chắc chuỗi ánh sáng kỳ lạ trên bầu trời là do một chiếc drone hỏng, một hiện tượng khí quyển, hay chỉ là trí óc mệt mỏi đang đánh lừa anh.::vietnamese
+Gökyüzündeki garip ışık deseninin bozuk bir drondan mı, atmosferik bir anomaliden mi yoksa sadece yorgun zihninin bir oyunu mu olduğunu bilemeden iki kez göz kırptı.::turkish
+Ia berkedip dua kali, tidak yakin apakah pola cahaya aneh di langit itu adalah drone rusak, anomali atmosfer, atau hanya pikirannya yang lelah mempermainkannya.::indonesian
+Fine.::english
+Gut.::german
+Bine.::romanian
+Bien.::spanish
+Certo.::portuguese
+Va bene.::italian
+Okej.::swedish
+Goed.::dutch
+Très bien.::french
+Được thôi.::vietnamese
+Peki.::turkish
+Baik.::indonesian
+The dataset contained thousands of entries, each with its own quirks—occasional malformed characters, inconsistent casing, mismatched tags—but overall it offered a remarkably diverse foundation for evaluating cross-lingual generalization.::english
+Der Datensatz enthielt Tausende von Einträgen, jeder mit eigenen Eigenheiten—gelegentlich fehlerhafte Zeichen, uneinheitliche Großschreibung, unpassende Tags—doch insgesamt bot er eine bemerkenswert vielfältige Grundlage zur Bewertung der sprachübergreifenden Generalisierung.::german
+Setul de date conținea mii de intrări, fiecare cu propriile particularități—caractere deteriorate, variații ale majusculelor, etichete nepotrivite—dar per ansamblu oferea o bază remarcabil de diversă pentru evaluarea generalizării multilingve.::romanian
+El conjunto de datos contenía miles de entradas, cada una con sus peculiaridades—caracteres dañados, inconsistencias en mayúsculas, etiquetas que no coincidían—pero en conjunto ofrecía una base notablemente diversa para evaluar la generalización multilingüe.::spanish
+O conjunto de dados continha milhares de entradas, cada uma com suas próprias peculiaridades—caracteres malformados, uso inconsistente de maiúsculas, etiquetas incorretas—mas no geral oferecia uma base notavelmente diversa para avaliar a generalização multilíngue.::portuguese
+Il dataset conteneva migliaia di voci, ognuna con le proprie stranezze—caratteri danneggiati, maiuscole incoerenti, etichette non corrispondenti—ma nel complesso offriva una base sorprendentemente varia per valutare la generalizzazione multilingue.::italian
+Datamängden innehöll tusentals poster, var och en med sina egna egenheter—ibland trasiga tecken, inkonsekvent versalisering, felaktiga taggar—men totalt sett gav den en anmärkningsvärt varierad grund för att utvärdera flerspråkig generalisering.::swedish
+De dataset bevatte duizenden items, elk met zijn eigen eigenaardigheden—soms kapotte tekens, inconsistente hoofdletters, verkeerde labels—maar als geheel bood het een opmerkelijk diverse basis voor het beoordelen van meertalige generalisatie.::dutch
+L’ensemble de données contenait des milliers d’entrées, chacune avec ses particularités—caractères corrompus, capitalisation incohérente, étiquettes incorrectes—mais dans l’ensemble, il offrait une base remarquablement diversifiée pour évaluer la généralisation multilingue.::french
+Tập dữ liệu có hàng ngàn mục, mỗi mục đều có những điểm kỳ quặc riêng—kí tự lỗi, viết hoa không nhất quán, nhãn sai—nhưng nhìn chung nó cung cấp một nền tảng phong phú để đánh giá khả năng khái quát đa ngôn ngữ.::vietnamese
+Veri seti, bozuk karakterler, tutarsız büyük harf kullanımı, yanlış etiketler gibi kendine özgü sorunlara sahip binlerce kayıt içeriyordu; ancak genel olarak çok dilli genelleme değerlendirmesi için son derece çeşitli bir temel sunuyordu.::turkish
+Dataset tersebut berisi ribuan entri, masing-masing dengan keanehannya sendiri—karakter rusak, kapitalisasi tidak konsisten, label tidak cocok—namun secara keseluruhan menyediakan dasar yang sangat beragam untuk mengevaluasi generalisasi multibahasa.::indonesian
+Turn left.::english
+Links abbiegen.::german
+Fă stânga.::romanian
+Gira a la izquierda.::spanish
+Vira à esquerda.::portuguese
+Gira a sinistra.::italian
+Sväng vänster.::swedish
+Sla links af.::dutch
+Tourne à gauche.::french
+Rẽ trái.::vietnamese
+Sola dön.::turkish
+Belok kiri.::indonesian
+She recalled a childhood afternoon spent chasing dragonflies near the edge of a rice field, the sunlight scattering across the water as if trying to preserve the memory forever.::english
+Sie erinnerte sich an einen Kindheitsnachmittag, an dem sie Libellen am Rand eines Reisfeldes jagte, während das Sonnenlicht über das Wasser glitzerte, als wolle es die Erinnerung für immer bewahren.::german
+Ea și-a amintit de o după-amiază din copilărie petrecută alergând după libelule la marginea unui lan de orez, lumina soarelui împrăștiindu-se pe apă ca și cum ar fi vrut să păstreze amintirea pentru totdeauna.::romanian
+Recordó una tarde de su infancia persiguiendo libélulas en el borde de un arrozal, la luz del sol brillando sobre el agua como si intentara preservar el recuerdo para siempre.::spanish
+Ela lembrou uma tarde de infância passada correndo atrás de libélulas na beira de um campo de arroz, a luz do sol brilhando sobre a água como se tentasse preservar a memória para sempre.::portuguese
+Ricordò un pomeriggio d’infanzia trascorso a inseguire libellule vicino a una risaia, la luce del sole scintillante sull’acqua come se volesse conservare quel ricordo per sempre.::italian
+Hon mindes en barndoms­eftermiddag då hon jagade trollsländor vid kanten av ett risfält, medan solljuset glittrade över vattnet som om det försökte bevara minnet för evigt.::swedish
+Ze herinnerde zich een middag uit haar jeugd waarin ze libellen achterna zat bij de rand van een rijstveld, het zonlicht fonkelend over het water alsof het de herinnering voor altijd wilde bewaren.::dutch
+Elle se rappela un après-midi d’enfance passé à poursuivre des libellules au bord d’une rizière, la lumière du soleil scintillant sur l’eau comme si elle voulait figer le souvenir pour toujours.::french
+Cô nhớ lại một buổi chiều thời thơ ấu đuổi bắt chuồn chuồn bên ruộng lúa, ánh nắng lấp lánh trên mặt nước như muốn giữ mãi ký ức ấy.::vietnamese
+Bir çocukluk öğleden sonrasını, bir pirinç tarlasının kenarında yusufçukların peşinden koşarken geçirdiğini hatırladı; güneş ışığı suyun üzerinde pırıldıyor, sanki anıyı sonsuza dek saklamak ister gibiydi.::turkish
+Ia teringat suatu sore di masa kecil ketika ia mengejar capung di tepi sawah, cahaya matahari berkilau di atas air seakan ingin mengabadikan kenangan itu selamanya.::indonesian
+Hurry up.::english
+Beeil dich.::german
+Grăbește-te.::romanian
+Date prisa.::spanish
+Depressa-te.::portuguese
+Sbrigati.::italian
+Skynda dig.::swedish
+Schiet op.::dutch
+Dépêche-toi.::french
+Nhanh lên.::vietnamese
+Acele et.::turkish
+Cepatlah.::indonesian
+It worked.::english
+Es hat funktioniert.::german
+A funcționat.::romanian
+Funcionó.::spanish
+Funcionou.::portuguese
+Ha funzionato.::italian
+Det fungerade.::swedish
+Het werkte.::dutch
+Ça a marché.::french
+Nó hoạt động rồi.::vietnamese
+Çalıştı.::turkish
+Berhasil.::indonesian
+The room fell silent the moment the door creaked open.::english
+Der Raum wurde still, als die Tür knarrend aufging.::german
+Camera a devenit tăcută în clipa în care ușa a scârțâit deschizându-se.::romanian
+La habitación quedó en silencio en cuanto la puerta chirrió al abrirse.::spanish
+A sala ficou em silêncio no instante em que a porta rangeu ao se abrir.::portuguese
+La stanza divenne silenziosa nel momento in cui la porta si aprì cigolando.::italian
+Rummet blev tyst i samma ögonblick som dörren gnisslade upp.::swedish
+De kamer werd stil op het moment dat de deur piepend openging.::dutch
+La pièce devint silencieuse au moment où la porte s’ouvrit en grinçant.::french
+Căn phòng im lặng ngay khi cánh cửa kêu cót két mở ra.::vietnamese
+Kapı gıcırdayarak açıldığında oda bir anda sessizleşti.::turkish
+Ruangan langsung hening begitu pintu berderit terbuka.::indonesian
+Good idea.::english
+Gute Idee.::german
+Bună idee.::romanian
+Buena idea.::spanish
+Boa ideia.::portuguese
+Buona idea.::italian
+Bra idé.::swedish
+Goed idee.::dutch
+Bonne idée.::french
+Ý hay đấy.::vietnamese
+İyi fikir.::turkish
+Ide bagus.::indonesian
+Nobody knew why the generator suddenly stopped, but the lights dimmed so quickly that everyone instinctively reached for their phones.::english
+Niemand wusste, warum der Generator plötzlich stoppte, aber die Lichter wurden so schnell dunkler, dass alle instinktiv nach ihren Telefonen griffen.::german
+Nimeni nu știa de ce generatorul s-a oprit brusc, dar luminile s-au stins atât de repede încât toți au întins instinctiv mâna după telefon.::romanian
+Nadie sabía por qué el generador se detuvo de repente, pero las luces se atenuaron tan rápido que todos buscaron sus teléfonos por reflejo.::spanish
+Ninguém sabia por que o gerador parou de repente, mas as luzes diminuíram tão rápido que todos pegaram seus celulares instintivamente.::portuguese
+Nessuno sapeva perché il generatore si fosse fermato all’improvviso, ma le luci si affievolirono così rapidamente che tutti presero il telefono d’istinto.::italian
+Ingen visste varför generatorn plötsligt stannade, men ljuset dämpades så snabbt att alla instinktivt grep sina telefoner.::swedish
+Niemand wist waarom de generator plots stopte, maar de lichten dimden zo snel dat iedereen instinctief naar zijn telefoon greep.::dutch
+Personne ne savait pourquoi le générateur s’était arrêté d’un coup, mais les lumières ont baissé si vite que tout le monde a attrapé son téléphone par réflexe.::french
+Không ai biết vì sao máy phát điện đột nhiên dừng, nhưng đèn tắt nhanh đến mức ai cũng theo phản xạ rút điện thoại ra.::vietnamese
+Jeneratör neden birden durdu kimse bilmiyordu, ama ışıklar o kadar hızlı karardı ki herkes refleks olarak telefonuna uzandı.::turkish
+Tak ada yang tahu mengapa generator tiba-tiba berhenti, tetapi lampu meredup begitu cepat sehingga semua orang langsung meraih ponsel mereka.::indonesian
+Not yet.::english
+Noch nicht.::german
+Încă nu.::romanian
+Todavía no.::spanish
+Ainda não.::portuguese
+Non ancora.::italian
+Inte än.::swedish
+Nog niet.::dutch
+Pas encore.::french
+Chưa.::vietnamese
+Henüz değil.::turkish
+Belum.::indonesian
+She found the missing document under a pile of unrelated papers, crumpled but still legible.::english
+Sie fand das fehlende Dokument unter einem Stapel unzusammenhängender Papiere, zerknittert, aber noch lesbar.::german
+A găsit documentul lipsă sub un teanc de hârtii fără legătură, mototolit, dar încă lizibil.::romanian
+Encontró el documento perdido bajo una pila de papeles sin relación, arrugado pero legible.::spanish
+Ela encontrou o documento perdido sob uma pilha de papéis sem relação, amassado mas legível.::portuguese
+Ha trovato il documento mancante sotto una pila di fogli senza relazione, spiegazzato ma ancora leggibile.::italian
+Hon hittade det saknade dokumentet under en hög orelaterade papper, skrynkligt men fortfarande läsbart.::swedish
+Ze vond het ontbrekende document onder een stapel ongerelateerde papieren, gekreukt maar leesbaar.::dutch
+Elle a retrouvé le document manquant sous une pile de papiers sans rapport, froissé mais encore lisible.::french
+Cô ấy tìm thấy tài liệu bị mất dưới một đống giấy tờ không liên quan, nhăn nheo nhưng vẫn đọc được.::vietnamese
+Kayıp belgeyi alakasız kağıtların altında buruşmuş ama okunabilir halde buldu.::turkish
+Dokumen yang hilang ia temukan di bawah tumpukan kertas tak terkait, kusut tetapi masih bisa dibaca.::indonesian
+All clear.::english
+Alles klar.::german
+Totul e clar.::romanian
+Todo claro.::spanish
+Tudo certo.::portuguese
+Tutto chiaro.::italian
+Allt klart.::swedish
+Alles duidelijk.::dutch
+Tout est clair.::french
+Rõ rồi.::vietnamese
+Her şey net.::turkish
+Semua jelas.::indonesian
+The morning fog lifted slowly, revealing the quiet harbor where fishing boats drifted like half-forgotten dreams.::english
+Der Morgennebel hob sich langsam und enthüllte den ruhigen Hafen, in dem Fischerboote wie halb vergessene Träume trieben.::german
+Ceata de dimineață s-a ridicat încet, dezvăluind portul liniștit unde bărcile de pescuit pluteau ca niște vise pe jumătate uitate.::romanian
+La niebla matutina se levantó lentamente, revelando el puerto tranquilo donde los barcos pesqueros flotaban como sueños medio olvidados.::spanish
+A névoa da manhã se ergueu lentamente, revelando o porto silencioso onde barcos de pesca flutuavam como sonhos meio esquecidos.::portuguese
+La nebbia del mattino si alzò lentamente, rivelando il porto tranquillo dove le barche da pesca galleggiavano come sogni a metà dimenticati.::italian
+Morgondimman lättade långsamt och avslöjade den stilla hamnen där fiskebåtar låg och drev som halvt glömda drömmar.::swedish
+De ochtendmist trok langzaam op en onthulde de stille haven waar vissersboten dreven als half vergeten dromen.::dutch
+La brume matinale se leva lentement, révélant le port calme où les bateaux de pêche flottaient comme des rêves à moitié oubliés.::french
+Sương mù buổi sáng tan dần, lộ ra bến cảng yên bình nơi những chiếc thuyền cá trôi lững lờ như giấc mơ lãng quên.::vietnamese
+Sabah sisi yavaşça dağıldı ve balıkçı teknelerinin yarım unutulmuş rüyalar gibi süzüldüğü sakin liman ortaya çıktı.::turkish
+Kabut pagi perlahan terangkat, memperlihatkan pelabuhan sunyi tempat perahu nelayan melayang seperti mimpi yang setengah terlupakan.::indonesian
+Just go.::english
+Geh einfach.::german
+Doar du-te.::romanian
+Solo vete.::spanish
+Só vai.::portuguese
+Vai e basta.::italian
+Gå bara.::swedish
+Ga gewoon.::dutch
+Va juste.::french
+Cứ đi đi.::vietnamese
+Sadece git.::turkish
+Pergi saja.::indonesian
+He typed a single sentence, deleted it, typed another, deleted that one too, and finally shut the laptop with the resigned acceptance that inspiration would not be visiting tonight.::english
+Er tippte einen einzigen Satz, löschte ihn, tippte einen weiteren, löschte auch den und klappte schließlich den Laptop zu, in dem resignierten Bewusstsein, dass die Inspiration heute Nacht nicht vorbeischauen würde.::german
+A tastat o singură propoziție, a șters-o, a tastat alta, a șters-o și pe aceea, apoi a închis laptopul, acceptând că inspirația nu avea să vină în seara aceea.::romanian
+Escribió una sola frase, la borró, escribió otra, también la borró y, al final, cerró el portátil aceptando con resignación que la inspiración no llegaría esa noche.::spanish
+Ele digitou uma frase, apagou, digitou outra, apagou também, e finalmente fechou o laptop aceitando que a inspiração não apareceria naquela noite.::portuguese
+Scrisse una sola frase, la cancellò, ne scrisse un’altra, cancellò pure quella e alla fine richiuse il laptop con la rassegnazione che l’ispirazione non sarebbe arrivata quella sera.::italian
+Han skrev en mening, raderade den, skrev en till, raderade även den och stängde till slut laptopen med insikten att inspirationen inte skulle komma i kväll.::swedish
+Hij typte één zin, verwijderde hem, typte een andere, verwijderde die ook en sloot uiteindelijk de laptop, berustend in het feit dat inspiratie vanavond niet zou langskomen.::dutch
+Il écrivit une phrase, l’effaça, en écrivit une autre, l’effaça aussi, puis ferma son ordinateur avec la résignation que l’inspiration ne viendrait pas ce soir.::french
+Anh ấy gõ một câu, xóa nó đi, gõ câu khác, lại xóa tiếp, rồi cuối cùng đóng laptop lại, chấp nhận rằng đêm nay cảm hứng sẽ không đến.::vietnamese
+Bir cümle yazdı, sildi, başka bir cümle yazdı, onu da sildi ve sonunda ilhamın bu gece uğramayacağını kabullenerek dizüstünü kapattı.::turkish
+Ia mengetik satu kalimat, menghapusnya, mengetik kalimat lain, menghapusnya juga, lalu menutup laptop sambil menerima bahwa inspirasi tidak akan datang malam ini.::indonesian
